@@ -388,10 +388,10 @@ class Chatbot:
         """
 
         # Fetch embedding variables from model
-        with tf.variable_scope("embedding_rnn_seq2seq/RNN/EmbeddingWrapper", reuse=True):
-            em_in = tf.get_variable("embedding")
-        with tf.variable_scope("embedding_rnn_seq2seq/embedding_rnn_decoder", reuse=True):
-            em_out = tf.get_variable("embedding")
+        with tf.variable_scope("embedding_rnn_seq2seq/RNN/EmbeddingWrapper", reuse=tf.AUTO_REUSE):
+            em_in = tf.get_variable("word_embeddings",[self.textData.getVocabularySize(),self.args.embeddingSize])
+        with tf.variable_scope("embedding_rnn_seq2seq/embedding_rnn_decoder", reuse=tf.AUTO_REUSE):
+            em_out = tf.get_variable("word_embeddings",[self.textData.getVocabularySize(),self.args.embeddingSize])
 
         # Disable training for embeddings
         variables = tf.get_collection_ref(tf.GraphKeys.TRAINABLE_VARIABLES)
@@ -405,6 +405,7 @@ class Chatbot:
         # New model, we load the pre-trained word2vec data and initialize embeddings
         with open(os.path.join(self.args.rootDir, 'data/word2vec/GoogleNews-vectors-negative300.bin'), "rb", 0) as f:
             header = f.readline()
+            print (header)
             vocab_size, vector_size = map(int, header.split())
             binary_len = np.dtype('float32').itemsize * vector_size
             initW = np.random.uniform(-0.25,0.25,(len(self.textData.word2id), vector_size))
