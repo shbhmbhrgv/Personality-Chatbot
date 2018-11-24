@@ -27,10 +27,6 @@ import random
 import string
 from collections import OrderedDict
 
-from chatbot.corpus.cornelldata import CornellData
-from chatbot.corpus.opensubsdata import OpensubsData
-from chatbot.corpus.scotusdata import ScotusData
-from chatbot.corpus.ubuntudata import UbuntuData
 from chatbot.corpus.lightweightdata import LightweightData
 
 class Batch:
@@ -49,10 +45,6 @@ class TextData:
     """
 
     availableCorpus = OrderedDict([  # OrderedDict because the first element is the default choice
-        ('cornell', CornellData),
-        ('opensubs', OpensubsData),
-        ('scotus', ScotusData),
-        ('ubuntu', UbuntuData),
         ('lightweight', LightweightData),
     ])
 
