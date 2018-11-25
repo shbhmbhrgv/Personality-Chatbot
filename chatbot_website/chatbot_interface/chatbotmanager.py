@@ -6,7 +6,11 @@ from django.apps import AppConfig
 import sys
 import os
 
-chatbotPath = "\\".join(settings.BASE_DIR.split('\\')[:-1])
+#data_folder = Path("source_data/text_files/")
+
+#file_to_open = data_folder / "raw_data.txt"
+
+chatbotPath = "/".join(settings.BASE_DIR.split('/')[:-1])
 sys.path.append(chatbotPath)
 from chatbot import chatbot
 

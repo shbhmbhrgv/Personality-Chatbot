@@ -11,7 +11,7 @@ def func(filename):
                 else:
                     l = line[line.index(":") + 1:].strip()  # Strip name of speaker.
                     lines.append(l)
-                    if ("Joey:" in line):
+                    if ("Sheldon:" in line):
                         joey_lines.append(lines[-2])
                         joey_lines.append(lines[-1])
                 # i += 1
@@ -21,7 +21,7 @@ def func(filename):
 
 # print (lines)
 # func('friends_transcript.txt')
-func('friendsf.txt')
+func('tbbt_transcript.txt')
 with open('res.txt','w',encoding='utf8') as outfile:
     for line in joey_lines:
         try:
