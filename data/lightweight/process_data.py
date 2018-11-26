@@ -5,7 +5,7 @@ def func(filename):
     with open(filename, 'r',encoding='utf8') as f:
         for line in f:
             try:
-                if ":" not in line:
+                if ":" not in line or "Scene:" in line:
                     if joey_lines and joey_lines[-1] != "===":
                         joey_lines.append("===")
                         lines.append("===")
@@ -25,9 +25,9 @@ def func(filename):
                             joey_lines.append(lines[-1])
 
 
-                    if ("Sheldon:" in line):
-                        joey_lines.append(lines[-2])
-                        joey_lines.append(lines[-1])
+                    #if ("Sheldon:" in line):
+                    #    joey_lines.append(lines[-2])
+                    #    joey_lines.append(lines[-1])
                 # i += 1
             except Exception as e:
                 print (e)
