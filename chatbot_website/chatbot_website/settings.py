@@ -141,12 +141,12 @@ LOGGING = {
         'file_django': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': 'logs/debug_django.log',
+            'filename': 'chatbot_website/logs/debug_django.log',
         },
         'file_chatbot': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': 'logs/debug_chatbot.log',
+            'filename': 'chatbot_website/logs/debug_chatbot.log',
         },
         'console': {
             'level': 'DEBUG',
