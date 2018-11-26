@@ -12,10 +12,10 @@ def func(filename):
                 else:
                     l = line[line.index(":") + 1:].strip()  # Strip name of speaker.
                     lines.append(l)
-                    if "Sheldon:" in l:
-                        print (lines[-2])
-                        print (lines[-1])
-                        print(joey_lines[-1])
+                    # if "Sheldon:" in l:
+                        # print (lines[-2])
+                        # print (lines[-1])
+                        # print(joey_lines[-1])
                     if "Sheldon:" in line:
                         if joey_lines and lines[-2] != "===":
                             joey_lines.append(lines[-2])
