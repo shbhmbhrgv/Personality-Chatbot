@@ -18,19 +18,23 @@ The Chatbot is Designed to Mimic the Personality of Joey, a Character from the P
 
 To Run the Project you require::
  * python 3.5 and above
- * tensorflow (v0.12)
- * django (1.10.7)
- * channels (1.1.6)
- * redis ()
- * asgi_redis
+ * redis
+ * pip install tensorflow
+ * pip install django==1.10.7
+ * pip install channels==1.1.6
+ * pip install asgi_redis
+ * pip install tqdm
+ * pip install nltk
+ * python3 -m nltk.downloader punkt 
  * [CKPT FILE](https://uofi.box.com/shared/static/vm0sm79oh037eh2kood6tvnaq010f75h.zip)
 
 ## Running
 Once you have all the depenedencies ready, do the folowing:
 
-Extract the ckpt zip file, you will get a folder 'model-server' with the ckpt file and its associated files. Move this folder to /save. The server will look at the model present on save/model-server/model.ckpt
+Extract the ckpt zip file, you will get a folder 'model-server' with the ckpt file and its associated files. Move this folder to /save.
+The server will look at the model present on save/model-server/model.ckpt
 
-To configure the web app
+To Configure the Web App
 
 ```bash
 export CHATBOT_SECRET_KEY="my-secret-key"
@@ -39,14 +43,15 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-Then, to launch the server locally, use the following commands:
+Then, to Launch the Server Locally, Use the Following Commands:
 
 ```bash
 cd chatbot_website/
-redis-server &  # Launch Redis in background
-python manage.py runserver 0.0.0.0:8888
+redis-server &  # Launch Redis in Background
+python manage.py runserver 127.0.0.1:8000
 ```
-Go to the browser, if you are running it on a server then [ip-address]:8888, if you are on your local machine then localhost:8888
+Go to the browser http://127.0.0.1:8080/ 
+
 
 ## Dataset
 For this project we used the [Friends TV Corpus](https://sites.google.com/site/friendstvcorpus/), which was currated by David Ayliffe for his masters thesis to study inter-gender and intra-gender conversation. We formatted the data to get conversation between Joey(a character) and several other characters. There are two reasons for this: 
