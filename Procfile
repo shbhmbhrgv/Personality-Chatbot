@@ -1,1 +1,1 @@
-web: gunicorn personality-chatbot.wsgi --log-file
+web: gunicorn chatbot_website.wsgi --log-file
