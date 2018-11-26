@@ -4,10 +4,6 @@
 Chat with Joey is a TensorFlow Implementation of a Neural Conversational Model with the Help of DeepQA Repo.It makes use of a SEQ2SEQ Model RNN for Sentence Predictions.
 The Chatbot is Designed to Mimic the Personality of Joey, a Character from the Popular TV-Show "F.R.I.E.N.D.S".
 
-# Demo Video [Link](https://www.youtube.com/watch?v=MbjKl4fUdcI)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MbjKl4fUdcI/0.jpg)](https://www.youtube.com/watch?v=MbjKl4fUdcI)
-
 #### Table of Contents
 
 * [Installation](#installation)
@@ -20,21 +16,17 @@ The Chatbot is Designed to Mimic the Personality of Joey, a Character from the P
 
 ## Installation
 
-To run the project you will need:
- * python 3.5
+To Run the Project you require::
+ * python 3.5 and above
  * tensorflow (v0.12)
- * django (1.10)
- * channels
- * Redis
- * asgi_redis (at least 1.0)
+ * django (1.10.7)
+ * channels (1.1.6)
+ * redis ()
+ * asgi_redis
  * [CKPT FILE](https://uofi.box.com/shared/static/vm0sm79oh037eh2kood6tvnaq010f75h.zip)
- * [Dataset](https://uofi.box.com/shared/static/vz93xppov71cu5ubf14cb65i3pvwgmmw.txt)
 
 ## Running
-
 Once you have all the depenedencies ready, do the folowing:
-
-Download the dataset friends.txt and move it to data/lightweight/. 
 
 Extract the ckpt zip file, you will get a folder 'model-server' with the ckpt file and its associated files. Move this folder to /save. The server will look at the model present on save/model-server/model.ckpt
 
