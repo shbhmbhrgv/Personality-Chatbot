@@ -50,7 +50,7 @@ cd chatbot_website/
 redis-server &  # Launch Redis in Background
 python manage.py runserver 127.0.0.1:8000
 ```
-Go to the browser http://127.0.0.1:8080/ 
+Then, Go to the Browser: http://127.0.0.1:8080/ 
 
 
 ## Dataset
