@@ -25,6 +25,10 @@ def func(filename):
                             joey_lines.append(lines[-1])
 
 
+                    if ("Sheldon:" in line):
+                        joey_lines.append(lines[-2])
+                        joey_lines.append(lines[-1])
+                # i += 1
             except Exception as e:
                 print (e)
 

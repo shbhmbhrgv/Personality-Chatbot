@@ -11,7 +11,8 @@ https://docs.djangoproject.com/en/1.10/ref/settings/
 """
 
 import os
-
+import redis
+import urlparse
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -104,7 +105,24 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-redis_url = os.environ.get('CHATBOT_REDIS_URL', 'localhost')
+#redis_url = os.environ.get('CHATBOT_REDIS_URL', 'localhost')
+redis_url = os.getenv('REDISTOGO_URL', 'redis://localhost:6379')
+#redis = redis.from_url(redis_url)
+
+urlparse.uses_netloc.append('redis')
+url = urlparse.urlparse(redis_url)
+
+CACHES = {
+    'default': {
+        'BACKEND': 'redis_cache.RedisCache',
+        'LOCATION': '%s:%s' % (url.hostname, url.port),
+    }
+    # 'default': {
+    #     'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
+    #     'LOCATION': 'default-cache'
+    # }
+}
+
 CHANNEL_LAYERS = {
     "default": {
         "BACKEND": "asgi_redis.RedisChannelLayer",
