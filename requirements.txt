@@ -2,7 +2,8 @@ tensorflow-gpu>=1.0
 numpy
 nltk
 tqdm
-urlparse
+urllib3==1.24
+parse==1.9.0
 gunicorn
 asgi-redis==1.4.3
 redis==3.0.1
