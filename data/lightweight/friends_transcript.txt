@@ -87,7 +87,8 @@ Paul:    It's, uh, it's Paul.
 Monica:   Oh God, is it 6:30?   Buzz him in!
 Joey:  Who's Paul?
 Ross:  Paul the Wine Guy, Paul?
-Monica:  Maybe.  Joey:  Wait. Your 'not a real date' tonight is with Paul the Wine Guy?
+Monica:  Maybe.
+Joey:  Wait. Your 'not a real date' tonight is with Paul the Wine Guy?
 Ross:  He finally asked you out?
 Monica:  Yes!
 Chandler:  Ooh, this is a Dear Diary moment.
@@ -13047,9 +13048,6 @@ Phoebe:  Ameri-can.
 Sergei:  Ameri-ccan.
 Phoebe:  Ameri-can. Y'know its a  very  hard language. Lets do it again.
 
-Sergei:   Everybody!! Joey:   Previously on Friends.
-
-
 Ross:  I mean, I dont feel like I even have a girlfriend anymore.
 Rachel:  You want me to just quit my job so that you can feel like youve got a girlfriend?
 Ross:  Is this about Mark?
@@ -16145,7 +16143,8 @@ Chandler:   Hi there.
 Monica:  Thats that weird voice again.
 Chandler:  Okay! Okay! Let me try it again, youre gonna wanna date this next guy, I swear!
 
-Chandler:  Hi! Im Dorf! Youre date for the evening.  Oh come on! Dorf on dating, thats good stuff!!Joey:   Okay, so we went to the beach, because Phoebe found out about this lady who knew her mom and dad, and I dont really know what happened with that.
+Chandler:  Hi! Im Dorf! Youre date for the evening.  Oh come on! Dorf on dating, thats good stuff!!
+Joey:   Okay, so we went to the beach, because Phoebe found out about this lady who knew her mom and dad, and I dont really know what happened with that.
 
 Phoebe Sr.:   Im your mother.
 Phoebe:  Ehh?
@@ -35615,7 +35614,12 @@ Joey:   There's my scene, there's my scene.    "Mrs. Wallace, I'm Dr. Drake Ramo
 Joey:   Vell, Eva, ve've done some excellent vork here, and I vould have to say, your pwoblem is qviiite clear. 
 All you want is a dingle,    What you envy's a schwang,    A thing through which you can tinkle,    Or play with, or simply let hang...
 
-Joey:   I play Al Pacino's butt. All right? He goes into the shower, and then- I'm his butt.     Monica:   Oh my God.     Joey:   C'mon, you guys. This is a real movie, and Al Pacino's in it, and that's big!     Chandler:  Oh no, it's terrific, it's- it's- y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into show business.     Joey:  Okay, okay, fine! Make jokes, I don't care! This is a big break for me!     Ross:  You're right, you're right, it is.
+Joey:   I play Al Pacino's butt. All right? He goes into the shower, and then- I'm his butt.
+Monica:   Oh my God.
+Joey:   C'mon, you guys. This is a real movie, and Al Pacino's in it, and that's big!
+Chandler:  Oh no, it's terrific, it's- it's- y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into show business.
+Joey:  Okay, okay, fine! Make jokes, I don't care! This is a big break for me!
+Ross:  You're right, you're right, it is.
 Monica:   Yes.
 Ross:   So you gonna invite us all to the big opening?
 
@@ -47754,35 +47758,67 @@ Phoebe:  Then thats not breaking the law! Im there!
 Rachel:  Phoebe?
 Phoebe:  Yeah?
 Rachel:  Look at that guy by the window, wow!
-Phoebe:  Hes awfully short and I think hes talking to himself. And to be completely honest, hes not that good in bed.
-Rachel:  Oh, what is wrong with me lately? I mean its like every guy I seeI mean look here.  Look at that guy for example, I mean normally thats not someone I would-would be attracted to, but right now, with the way Im feeling, all I want to do is rip off his sweatpants and fanny pack.
+Phoebe:  Hes awfully short and I think hes talking to himself. And to
+
+ be completely honest, hes not that good in bed.
+Rachel:  Oh, what is wrong with me lately? I mean its like every guy I
+
+ seeI mean look here.  Look at that guy for example, I mean
+
+ normally thats not someone I would-would be attracted to, but right now, with the
+
+ way Im feeling, all I want to do is rip off his sweatpants and fanny pack.
 Phoebe:  Wait a second! This is about the fourth month of your pregnancy, right?
 Rachel:  Yeah.
-Phoebe:  This is completely normal, around the fourth month your hormones start going crazy.
+Phoebe:  This is completely normal, around the fourth month your hormones start
+
+ going crazy.
 Rachel:  Really?! So this has happened to you?
-Phoebe:  Oh absolutely yeah! Oh and keep in mind, now, I was carrying triplets so in, yknow, medical terms I was-I was thrice as randy.
-Rachel:  Wow! This explains so much! Last weekend, I went from store to store sitting on Santas lap.
-Phoebe:  Yeah. Yeah, I remember trying to steal a cardboard cutout of Evander Holyfield from a  Foot Locker .
+Phoebe:  Oh absolutely yeah! Oh and keep in mind, now, I was carrying triplets so
+
+ in, yknow, medical terms I was-I was thrice as randy.
+Rachel:  Wow! This explains so much! Last weekend, I went from store to store
+
+ sitting on Santas lap.
+Phoebe:  Yeah. Yeah, I remember trying to steal a cardboard cutout of Evander
+
+ Holyfield from a  Foot Locker .
 Rachel:  Ah.
 Phoebe:  Yeah.
-Rachel:  Well, yknow what? I go see my doctor tomorrow, Ill ask her about this. Maybe she can give me a pill or something.
+Rachel:  Well, yknow what? I go see my doctor tomorrow, Ill ask her
+
+ about this. Maybe she can give me a pill or something.
 Phoebe:  Yeah. Yeah, thats what you need a goodpill.
 Opening Credits
 
 Mona:  Hey!  Hey!
 Ross:  Hi!
 Mona:  Hi! Look! I got our pictures developed from Rockefeller Center.
-Ross:  Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?
-Joey:  Oh uh, ordinarily I would love too, but I am just swamped right now. 
-Ross:  Hey where-where are the pictures that creepy pretzel vendor took of us together?
-Mona:  Oh yeah, probably at the end.  Oh my God! He only took pictures of my breasts!
+Ross:  Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona
+
+ ice skating?
+Joey:  Oh uh, ordinarily I would love too, but I am just swamped right now.
+
+ 
+Ross:  Hey where-where are the pictures that creepy pretzel vendor took of us
+
+ together?
+Mona:  Oh yeah, probably at the end.  Oh my God! He only took
+
+ pictures of my breasts!
 Joey:  Im missin picture time?! 
 Phoebe:   Yknow she has a face Ross!
 Mona:  Okay. Okay, heres a good one of us.
-Ross:  Wow! That is a good one! Wow, it looks like a, like a holiday card yknow, with the tree in the middle and the skaters and the snow.
-Mona:  Yknow, every year I say Im gonna send out holiday cards and I never do it. Do you wanna, do you wanna send this one out together?
+Ross:  Wow! That is a good one! Wow, it looks like a, like a holiday card
+
+ yknow, with the tree in the middle and the skaters and the snow.
+Mona:  Yknow, every year I say Im gonna send out holiday cards and I
+
+ never do it. Do you wanna, do you wanna send this one out together?
 Ross:   Together? Like-like to people?
-Mona:  Yeah, yknow. Happy holidays from Mona and Ross. Itll be cute, okay?
+Mona:  Yeah, yknow. Happy holidays from Mona and Ross. Itll be cute,
+
+ okay?
 Ross:  Okay. 
 Mona:  Oh, I gotta get to work. So call me later?
 Ross:  Uh sure, sure.
@@ -47791,42 +47827,78 @@ Phoebe:  Bye.
 
 Joey:   Congratulations! You just got married!
 Ross:  I know. Can you believe that?
-Phoebe:  Wait, Im-Im sorry. Whats the big deal about a holiday card?
-Ross:  Married couples send out cards, families send out cards, people who have been dating for a couple of months do not send out cards! What-what is she crazy?!
+Phoebe:  Wait, Im-Im sorry. Whats the big deal about a holiday
+
+ card?
+Ross:  Married couples send out cards, families send out cards, people who have
+
+ been dating for a couple of months do not send out cards! What-what is she crazy?!
 Joey:  Hey-hey-hey, hey thats your wife youre talking about!
 
 Doug:  Bing! Ho! And the Bing-ette!
 Chandler:  Honey, you remember my boss Doug right?
 Monica:  Yes, hi.
 Doug:  Hi. So good news, the divorce is final. I signed the papers this A.M.
-Chandler:  I didnt know you and Carol were getting divorced, Im sorry.
-Doug:  Sorry? Finally chewed my leg out of that bear trap. Hey, congratulations to you guys though!
+Chandler:  I didnt know you and Carol were getting divorced, Im
+
+ sorry.
+Doug:  Sorry? Finally chewed my leg out of that bear trap. Hey, congratulations
+
+ to you guys though!
 Monica:  No leg-chewing for us sir.
-Doug:  Oh well, give it time. So the divorce, the marriage, weve got a lot to celebrate. How about we all go out to dinner tomorrow night?
-Monica:  I cant think of anything were doing.  Why cant I think of anything were doing?
-Doug:  Tomorrow night it is then, I should be out of court by six. They keep throwing these sexual harassment cases at me and I keep knocking them out of the park!
-Monica:  Okay, Ill see you tomorrow!  Just so you know, were not seeing him tomorrow.  I-I cannot spend another evening with that man. Do you remember how he behaved at our wedding?
+Doug:  Oh well, give it time. So the divorce, the marriage, weve got a lot
+
+ to celebrate. How about we all go out to dinner tomorrow night?
+Monica:  I cant think of anything were doing.  Why
+
+ cant I think of anything were doing?
+Doug:  Tomorrow night it is then, I should be out of court by six. They keep
+
+ throwing these sexual harassment cases at me and I keep knocking them out of the park!
+Monica:  Okay, Ill see you tomorrow!  Just so you know,
+
+ were not seeing him tomorrow.  I-I cannot spend another
+
+ evening with that man. Do you remember how he behaved at our wedding?
 Chandler:  No.
-Monica:  Thats because he wasnt invited because of the way he behaved at our engagement party.
-Chandler:  Oh yeah. Boy, urine cuts  right  through an ice sculpture doesnt it?
+Monica:  Thats because he wasnt invited because of the way he behaved
+
+ at our engagement party.
+Chandler:  Oh yeah. Boy, urine cuts  right  through an ice sculpture
+
+ doesnt it?
 
 Mona:  Hi!
 Ross:  Hey!
-Mona:  Hey, I went by the photo shop, take a look, here is a mockup of our card. What do you think?
+Mona:  Hey, I went by the photo shop, take a look, here is a mockup of our card.
+
+ What do you think?
 Ross:  Huh. Wow, this is great.
 Mona:  Now, do you think it should say, "Love Ross and Mona?"
-Ross:  Well, we-we havent said that to each other yet, but I guess its okay to say it to other people.
+Ross:  Well, we-we havent said that to each other yet, but I guess its okay
+
+ to say it to other people.
 Mona:  How many did you want? Im getting a hundred.
-Ross:  A hundred?! Well, I-I guess Ill take aMona, uhI-Im not sure about the whole uh, card thing.
+Ross:  A hundred?! Well, I-I guess Ill take aMona, uhI-Im
+
+ not sure about the whole uh, card thing.
 Mona:  Really? Why not?
-Ross:  Sending out a holiday card, together, I mean I just dont know if were really quite there yet.
-Mona:  Oh yknow, I didnt think of it that way. Youre right. Youre right. So, can I ask you a question?
+Ross:  Sending out a holiday card, together, I mean I just dont know if
+
+ were really quite there yet.
+Mona:  Oh yknow, I didnt think of it that way. Youre right.
+
+ Youre right. So, can I ask you a question?
 Ross:  Yeah.
 Mona:  Where are we?
 Ross:  Huh.
 Mona:  Yknow, like where are we? Where is this relationship going?
 Ross:  Hmm
-Mona:  I mean I love spending time with you, yknow I justI hope were moving forward. I mean, we should probably talk about that. Dont you think?
+Mona:  I mean I love spending time with you, yknow I justI hope
+
+ were moving forward. I mean, we should probably talk about that. Dont you
+
+ think?
 
 Ross:  Lets do the card!
 Mona:  What?
@@ -47836,14 +47908,24 @@ Ross:  Really?! I mean, even with the card?
 
 Nurse:  Hi!
 Rachel:  Hi!
-Nurse:  Just so you know, Dr. Long cant be here today, she was called to the hospital, so Dr. Schiff will be seeing you.
-Rachel:  Oh, okay. Hey, can I ask you a question? Was it me, or-or was the guy who took my blood sample really cute? Yknow who Im talking about, bald haircut, hairy fingers 
+Nurse:  Just so you know, Dr. Long cant be here today, she was called to
+
+ the hospital, so Dr. Schiff will be seeing you.
+Rachel:  Oh, okay. Hey, can I ask you a question? Was it me, or-or was the guy
+
+ who took my blood sample really cute? Yknow who Im talking about, bald
+
+ haircut, hairy fingers 
 Dr. Schiff:   Hi Rachel? Im Dr. Schiff. 
 Rachel:  Yes, you are.
 Dr. Schiff:  So, hows it going?
-Rachel:  Oh, really, really good. But enough about me, come on! Where-where are you from? What do you do?
+Rachel:  Oh, really, really good. But enough about me, come on! Where-where are
+
+ you from? What do you do?
 Dr. Schiff:  Im a doctor.
-Rachel:  Right! Right! I-I actually meant in your spare time, do you cook? Do you ski? Or do you just hang out with your wife or girlfriend?
+Rachel:  Right! Right! I-I actually meant in your spare time, do you cook? Do you
+
+ ski? Or do you just hang out with your wife or girlfriend?
 Dr. Schiff:  Uh, I dont have a wife or girlfriend, but I do like to ski.
 Rachel:  Oh, I love to ski! How amazing is this?!
 Dr. Schiff:  So, are you experiencing any discomfort?
@@ -47857,61 +47939,129 @@ Rachel:  Do you feel it too?
 
 Rachel:  Hi.
 Phoebe:  Oh hey! So, how did your doctors appointment go?
-Rachel:  Well, lets see. Uh, they gave me cute doctor today and in the middle of the exam I put my pinky in his chin dimple.
+Rachel:  Well, lets see. Uh, they gave me cute doctor today and in the
+
+ middle of the exam I put my pinky in his chin dimple.
 Phoebe:  Oh my God.
 Monica:  Why did you do that?
-Phoebe:  Okay, remember that little problem I was having during my fourth month of pregnancy?
-Monica:  Oh yeah, the Evander Holyfield phase. Oh man you were so hard up you practically came on to me.
+Phoebe:  Okay, remember that little problem I was having during my
+
+ fourth month of
+
+ pregnancy?
+Monica:  Oh yeah, the Evander Holyfield phase. Oh man you were so hard up you
+
+ practically came on to me.
 Phoebe:  You wish.
 Monica:  Hey, I couldve had you if I wanted you.
 Phoebe:  Oh yeah? Come and get it.
 Rachel:  Okay, even this is turning me on!
 Ross:   Hey!
-Rachel:  Oh hey! Hey Ross! Hey hows it, hows it going with you and Mona? Are you guys still together?
+Rachel:  Oh hey! Hey Ross! Hey hows it, hows it going with you and
+
+ Mona? Are you guys still together?
 Ross:  Oh yeah, yeah were moving forward. Youll be getting our card!
 Monica:  You and Mona are doing a holiday card together?
-Ross:  Yeah, were not just doing a card! Yknow, she-she also wants to have the conversation about where the relationship is going.
+Ross:  Yeah, were not just doing a card! Yknow, she-she also wants to
+
+ have the conversation about where the relationship is going.
 Phoebe:  Ugh! Women!
-Ross:  I know! I know! Why do you guys need to have this conversation?! Huh? I mean no self-respecting man would ask a woman, "So, where is this going?"
+Ross:  I know! I know! Why do you guys need to have this conversation?! Huh? I
+
+ mean no self-respecting man would ask a woman, "So, where is this going?"
 Rachel:  Uh Ross? You asked me that.
-Ross:  Hey! You were a closed book! Okay? Im not a mind reader! Besides, I hate those conversations. Im horrible at them. Really! Maybe-maybe I need kind of a gesture. Yknow, something that says were moving forward without having to talk about it.
+Ross:  Hey! You were a closed book! Okay? Im not a mind reader! Besides, I
+
+ hate those conversations. Im horrible at them. Really! Maybe-maybe I need kind of a
+
+ gesture. Yknow, something that says were moving forward without having to talk
+
+ about it.
 Monica:  Like asking her to move in with you?
 Ross:  Smaller than that.
 Monica:  Making her a mixed tape?
 Ross:  Uh, bigger than that.
 Phoebe:  Give her a key to your apartment.
 Ross:  Whoa-hello! We were closer with the mixed tape.
-Monica:  All right. Have you said, "I love you?" You could say, I love you.
-Ross:  Yeah I-I dont-I dont think Im quite there yet, but I could say I looove spending time with you.
+Monica:  All right. Have you said, "I love you?" You could say, I love
+
+ you.
+Ross:  Yeah I-I dont-I dont think Im quite there yet, but I
+
+ could say I looove spending time with you.
 Phoebe:  No, we hate that.
 Monica:  That is a slap in the face.
-Ross:  Forget it. I-IYknow what? Ill just have the conversation. Ill just say I like things the way they are, and hope for the best. What do you think Rach?
-Rachel:  I think, if it was a little colder in here I could see your nipples through that sweater.
+Ross:  Forget it. I-IYknow what? Ill just have the
+
+ conversation. Ill just say I like things the way they are, and hope for the best.
+
+ What do you think Rach?
+Rachel:  I think, if it was a little colder in here I could see your nipples
+
+ through that sweater.
 
 Doug:  Bing! Were all set for tonight, 8 oclock.
 Chandler:  Oh uh, as it turns out, we cant do it. Monica has to work.
-Doug:  Oh, my ex-wife didnt work, unless you call turning into her mother work. Fine. Tomorrow night then.
+Doug:  Oh, my ex-wife didnt work, unless you call turning into her mother
+
+ work. Fine. Tomorrow night then.
 Chandler:  Oh uh well tomorrows no good for her either.
 Doug:  Oh? Why not?
 Chandler:  Its the semi-finalsof herbotchy ball tournament.
-Doug:  Whats going on Bing? Does uh, your wife have a problem with me or something?
+Doug:  Whats going on Bing? Does uh, your wife have a problem with me or
+
+ something?
 Chandler:  Well now-now youre just talking crazy.
 Doug:  So why cant the three of us go out together?
-Chandler:  Because uhwe-wewe split up. Monica and I split up. Hold me.
-Doug:  Good God Bing Iwell I cant say Im altogether surprised, I saw the way she looked at you, and there was no love there. And the way she looked at me, pure lust.
-Chandler:  Yknow what would really help me through this tough time is choking something. Can I choke ya?
-Doug:  Bing my boy, were gonna get you over this. Now heres the plan, grab your coat, were going to a strip club.
-Chandler:  Oh no-no-no, Monica would freak.  But to hell with that bitch.
+Chandler:  Because uhwe-wewe split up. Monica and I split up. Hold
 
-Ross:  Here we go. Mona umm, I think its time we-we had a conversation about-about where things are with us.
+ me.
+Doug:  Good God Bing Iwell I cant say Im altogether surprised,
+
+ I saw the way she looked at you, and there was no love there. And the way she looked at
+
+ me, pure lust.
+Chandler:  Yknow what would really help me through this tough time is
+
+ choking something. Can I choke ya?
+Doug:  Bing my boy, were gonna get you over this. Now heres the plan,
+
+ grab your coat, were going to a strip club.
+Chandler:  Oh no-no-no, Monica would freak.  But to hell with
+
+ that bitch.
+
+Ross:  Here we go. Mona umm, I think its time we-we had a conversation
+
+ about-about where things are with us.
 Mona:  Yeah, I-I think I suggested that.
-Ross:  Aw, we-we are so So umm, well I-I-I like you and I-I love umm, yknow hanging out with you. And I mean-Im having a lot of fun. 
+Ross:  Aw, we-we are so So umm, well
+
+ I-I-I like you and I-I love umm, yknow hanging out with you. And I mean-Im
+
+ having a lot of fun. 
 Mona:  Okay.
-Ross:  I mean, theres no point in spending time with someone if-if its just fun. Its gotta be, its gotta be going somewhere right? So where-where is it going?  Ah! Thats-thats the real question. And-and the answer isis its going somewherefun. Now I-I know what youre thinking, fun was fine for you like ten years ago yknow, but youre-youre not getting any younger. No I meanNo not you, not you, youyou  are  getting younger. I meanyou-you look like youre getting younger by the secondWhats your secret?
+Ross:  I mean, theres no point in spending time with someone if-if
+
+ its just fun. Its gotta be, its gotta be going somewhere right? So
+
+ where-where is it going?  Ah! Thats-thats the real question. And-and
+
+ the answer isis its going somewherefun. Now I-I know what youre
+
+ thinking, fun was fine for you like ten years ago yknow, but youre-youre
+
+ not getting any younger. No I meanNo not you, not you, youyou  are 
+
+ getting younger. I meanyou-you look like youre getting younger by the
+
+ secondWhats your secret?
 Mona:  Im sorry, so umm, so where are we?
 Ross:  Well, well to sum up, were having fun, you look young.
 Mona:  Okay
-Ross:  But thats not enough. So Soheres a key to my apartment. 
+Ross:  But thats not enough. So Soheres a key to my
+
+ apartment. 
 Mona:  Really?!
 Ross:  Really.
 Mona:  You dont think this is too fast.
@@ -47919,7 +48069,9 @@ Mona:  You dont think this is too fast.
 Commercial Break
 
 Rachel:  You gave her a key to your apartment?!
-Ross:  Not just a key, I gave her the only key! I am now a homeless person in a very serious relationship.
+Ross:  Not just a key, I gave her the only key! I am now a homeless person in a
+
+ very serious relationship.
 Phoebe:   Hey. Ooh Ross! Howd the conversation go?
 Ross:  Oh great, I live on the street.
 Phoebe:  Where?! 
@@ -47927,32 +48079,54 @@ Rachel:  Hey!
 Phoebe:  Hi! Okay, Monica, Rachel, this is my friend Roger.
 Roger:  Hey everybody.
 Monica:  Hi Roger.
-Phoebe:  So umm, Im gonna get us some drinks.  Would you help me out?
+Phoebe:  So umm, Im gonna get us some drinks.  Would you help me
+
+ out?
 Rachel:  Yeah. 
 Phoebe:  Umm, hes here to have sex with you.
 Rachel:  What?
 Phoebe:  Youre welcome.
 Rachel:  Phoebe no!
 Phoebe:  Its okay, hes a virgin.
-Monica:  Rachel umm, I was just talking to this guy and I think hell have sex with you.
-Phoebe:  Yeah, okay lets leave these two alone.
-Rachel:  No! I do not care what my hormones are doing, I am not going to just do it with some random guy!
-Phoebe:  Fine! Then you tell Roger because he was really looking forward to this! 
+Monica:  Rachel umm, I was just talking to this guy and I think hell have
 
-Doug:  Oh Bing, look at those twin sisters dancing together. Let me buy you a lap dance with those girls. Huh?
+ sex with you.
+Phoebe:  Yeah, okay lets leave these two alone.
+Rachel:  No! I do not care what my hormones are doing, I am not going to just do
+
+ it with some random guy!
+Phoebe:  Fine! Then you tell Roger because he was really looking forward to this!
+
+ 
+
+Doug:  Oh Bing, look at those twin sisters dancing together. Let me buy you a lap
+
+ dance with those girls. Huh?
 Chandler:  Oh thats all right sir, and thats just one girl.
 Doug:  BingWhats this?! 
-Chandler:  Its a hand. Its a thing you use as a  Jack  and  Coke  holder.
-Doug:  No, its a wedding ring. You gotta get rid of it. Were gonna go to the East River right now and throw it in there!
-Chandler:  Oh no-no-no!
-Doug:  Oh yeah-yeah-yeah, yknow I did it and I felt a hell of a lot better and if you whip it just right you might hit a seagull in the head.
+Chandler:  Its a hand. Its a thing you use as a  Jack  and  Coke 
 
-Ross:  Okay, and oh Im gonna need a bunch of extra keys. Apparently I give them away for no reason at all.
+ holder.
+Doug:  No, its a wedding ring. You gotta get rid of it. Were gonna go
+
+ to the East River right now and throw it in there!
+Chandler:  Oh no-no-no!
+Doug:  Oh yeah-yeah-yeah, yknow I did it and I felt a hell of a lot better
+
+ and if you whip it just right you might hit a seagull in the head.
+
+Ross:  Okay, and oh Im gonna need a bunch of extra keys. Apparently I give
+
+ them away for no reason at all.
 Mona:   Hey Ross, whats going on? You changing the lock?
 Ross:  No. That guy is.
-Mona:  I dont understand. You-you give me a key to your apartment and then you change the lock.
+Mona:  I dont understand. You-you give me a key to your apartment and then
+
+ you change the lock.
 Locksmith:  Good luck buddy. 
-Mona:  Umm, I-I thought we were moving forward and now youre-youre sending me all these mixed signals. What are you trying to tell me?
+Mona:  Umm, I-I thought we were moving forward and now youre-youre
+
+ sending me all these mixed signals. What are you trying to tell me?
 Ross:  Im trying to tell you I made you a mix tape.
 Mona:  What?
 Ross:  I love you!
@@ -47960,13 +48134,27 @@ Mona:  Ohh!  And I love spending time with you.
 
 Chandler:  Hi honey Im home.
 Monica:  From the tequila factory?
-Chandler:  It was awful. To get out of going to dinner with Doug I told him that you and I split up. So then he took me to all these strip clubs and sleazy bars, and then when I wouldnt give him my wedding ring, he threw a soda can at a bird!
+Chandler:  It was awful. To get out of going to dinner with Doug I told him that
+
+ you and I split up. So then he took me to all these strip clubs and sleazy bars, and then
+
+ when I wouldnt give him my wedding ring, he threw a soda can at a bird!
 Monica:  Come here. I can breath through my mouth.
-Chandler:  Yknow what the worse part was? I got to see what my life would be like without you. It was like  Its a Wonderful Life  with lap dances. Please promise that you will never leave me, that we will grow old together, and be with each other for the rest of our lives.
-Monica:  I promise. Hey, speaking of together, how about we send out a holiday card this year?
+Chandler:  Yknow what the worse part was? I got to see what my life would
+
+ be like without you. It was like  Its a Wonderful Life  with lap dances. Please
+
+ promise that you will never leave me, that we will grow old together, and be with each
+
+ other for the rest of our lives.
+Monica:  I promise. Hey, speaking of together, how about we send out a holiday
+
+ card this year?
 Chandler:  Ooh, I dont know if were there yet.
 
-Rachel:  Yes. Hi, Id like to order a pizza. Okay, can I ask you a question? Is-is the cute blond guy delivering tonight? Very  Ambercrombie &amp; Fitch .  Ill call you back.
+Rachel:  Yes. Hi, Id like to order a pizza. Okay, can I ask you a question?
+
+ Is-is the cute blond guy delivering tonight? Very  Ambercrombie &amp; Fitch .  Ill call you back.
 Joey:  Who was that?
 Rachel:  Its just the pizza place.
 Joey:  You hung up on the pizza place? I dont hang up on your friends.
@@ -47974,9 +48162,23 @@ Rachel:  Im sorry honey, Im just having a, having a rough day.
 Joey:  Oh, whats wrong?
 Rachel:  Oh you really, you really just dont want to hear about it.
 Joey:  Then why did I ask?
-Rachel:  Okay, its justand this is really embarrassingbut lately with this whole pregnancy thing Im just finding myselfhow do I put this umm, erotically charged.
+Rachel:  Okay, its justand this is really embarrassingbut
+
+ lately with this whole pregnancy thing Im just finding myselfhow do I put this
+
+ umm, erotically charged.
 Joey:  Is that college talk for horny?
-Rachel:  Yeah. So yknow, I have all of these feelings and I dont know what to do about them, because I cant date like a normal person, which is fine because I dont need a relationship, I mean all I really want is one great night. Just sex, yknow? No strings attached, no relationship, just with someone that I feel comfortable with and who knows what hes doing. For just one great night, I mean is that really sohardto find.  So how was your day?
+Rachel:  Yeah. So yknow, I have all of these feelings and I dont know
+
+ what to do about them, because I cant date like a normal person, which is fine
+
+ because I dont need a relationship, I mean all I really want is one great night.
+
+ Just sex, yknow? No strings attached, no relationship, just with someone that I feel
+
+ comfortable with and who knows what hes doing. For just one great night, I mean is
+
+ that really sohardto find.  So how was your day?
 Joey:  Good, I uh, I saw a pretty big pigeon.
 Rachel:  Well, I gotta get up early and its almost seven oclock.
 Joey:  Yeah, I gotta, I gotta go to my room too.
@@ -47990,7 +48192,9 @@ Rachel:  Youre Joey!
 Joey:  Youre my friend!
 Rachel:  Right back at ya!
 Joey:  But plus, it would be wrong and weird and-and-and bad.
-Rachel:  And so bad. I dont even know what youre talking about because I didnt ask you to do anything!
+Rachel:  And so bad. I dont even know what youre talking about
+
+ because I didnt ask you to do anything!
 Joey:  I know!
 
 Joey:  Do you wanna do it?
@@ -48004,12 +48208,26 @@ Joey:  Good night!
 Joey:  Get back in there! 
 Closing Credits
 
-Phoebe:  Hi. Listen, Im sorry about that whole thing with Roger. It really wasnt right, and I, and I want to make it up to you, so umm, I brought you something that I think youll really enjoy.  Now, this is just a loan. Okay? Im gonna, Im gonna want him back. So  Im gonna go now.    Im sorry, I thought I could do it and I cant! 
+Phoebe:  Hi. Listen, Im sorry about that whole thing with Roger. It really
+
+ wasnt right, and I, and I want to make it up to you, so umm, I brought you something
+
+ that I think youll really enjoy.  Now, this is just a loan. Okay? Im gonna, Im gonna
+
+ want him back. So  Im gonna go now.  
+
+  Im sorry, I thought I could do it and I cant! 
 Phoebe:  Hey! I got you a present!!
 Chandler:  Oh my goodness! Where did you hide it?
-Phoebe:  I got it for your wedding and I ordered it weeks ago, and it finally got here!
-Chandler:  Pheebs you didnt have to get us anything for our wedding you already sang
-Monica:   I love it! Its huge!! Lets open it! Open it!! 
+Phoebe:  I got it for your wedding and I ordered it weeks ago, and it finally got
+
+ here!
+Chandler:  Pheebs you didnt have to get us anything for our wedding you
+
+ already sang
+Monica:   I love it! Its huge!! Lets open it! Open it!!
+
+ 
 Phoebe:  Its a  Ms. Pac-Man  machine!!
 Monica:  Oh my God!
 Phoebe:  I didnt know where to put it so I just left it here for now.
@@ -48018,89 +48236,171 @@ Chandler:  Oh, okay.
 Monica:  All right. 
 Chandler:  I kinda like it here.
 Phoebe:  Do you really like it?
-Monica:  Are you kidding?! I practically spent my entire childhood at the arcade! This is likeOh my, this is like my second favorite game!
+Monica:  Are you kidding?! I practically spent my entire childhood at the arcade!
+
+ This is likeOh my, this is like my second favorite game!
 Phoebe:  Oh really? What was your first?
 Monica:  Well I-I really dont remember the name of it.
 Chandler:  Well what did it do?
-Monica:  Well, you justyou put a quarter in and yknow pull-pull some handles and win like a candy bar or something.
+Monica:  Well, you justyou put a quarter in and yknow pull-pull some
+
+ handles and win like a candy bar or something.
 Chandler:  A vending machine?
 Monica:  Dont feel bad for me! I won like every time!
 Opening Credits
 
-Ross:  Hey! Oh, Im so glad you guys are here. Ive been dying to tell someone what happened in the Paleontology department today.
+Ross:  Hey! Oh, Im so glad you guys are here. Ive been dying to tell
+
+ someone what happened in the Paleontology department today.
 Joey:   Do you think he saw us or can we still sneak out?
 Ross:  Professor Neuman, the head of the department, so.
 Rachel:  They made you head of the department!
-Ross:  No, I get to teach one of his advanced classes!  Why didnt I get head of the department? 
+Ross:  No, I get to teach one of his advanced classes!  Why didnt I
+
+ get head of the department? 
 Joey:  Oh! Hey Rach, listen umm
 Rachel:  Yeah.
 Joey:  I got a big date coming up, do you know a good restaurant?
-Rachel:  Uh, Pauls Caf�. They got great food and its really romantic.
+Rachel:  Uh, Pauls Caf�. They got great food and its really
+
+ romantic.
 Joey:  Ooh, great! Thanks!
-Rachel:  Yeah! Oh, and then afterwards you can take her to the  Four Seasons  for drinks. Or you go downtown and listen to some jazz. Or dancingOh! Take her dancing!
+Rachel:  Yeah! Oh, and then afterwards you can take her to the  Four Seasons 
+
+ for drinks. Or you go downtown and listen to some jazz. Or dancingOh! Take her
+
+ dancing!
 Joey:  You sure are naming a lot of ways to postpone sex, Ill tell ya
-Rachel:  Ooh, I miss dating. Gettin all dressed up and going to a fancy restaurant. Im not gonna be able to do that for so long, and its so much fun! I mean not that sitting at home worrying about giving birth to a sixteen pound baby is not fun.
+Rachel:  Ooh, I miss dating. Gettin all dressed up and going to a fancy
+
+ restaurant. Im not gonna be able to do that for so long, and its so much fun!
+
+ I mean not that sitting at home worrying about giving birth to a sixteen pound baby is not
+
+ fun.
 Joey:  Hey, yknow what?
 Rachel:  Huh?
 Joey:  Why dont I take you out?
 Rachel:  What?! Joey, you dont want to go on a date with a pregnant lady.
-Joey:  Yes I do! And were gonna go out, were gonna have a good time, and take your mind off of childbirth and c-sections and-and giant baby heads stretching out
-Rachel:   Okay! Ill go with ya! Ill go! Ill go with ya.
+Joey:  Yes I do! And were gonna go out, were gonna have a good time,
+
+ and take your mind off of childbirth and c-sections and-and giant baby heads stretching
+
+ out
+Rachel:   Okay! Ill go with ya! Ill go! Ill go
+
+ with ya.
 Joey:  Ill be fun.
 Rachel:  All right?
 
-Phoebe:  No. No! Yes! Ahh. Oh, would you look at that Monica? I just knocked off all of your top scores, how sad.
-Monica:  Okay, Im next.  Dont! Dont start another game! I said Im next! Phoebe!
+Phoebe:  No. No! Yes! Ahh. Oh, would you look at that Monica? I just knocked off
+
+ all of your top scores, how sad.
+Monica:  Okay, Im next.  Dont!
+
+ Dont start another game! I said Im next! Phoebe!
 Phoebe:  Oh, Im sorry. I didnt hear you over all the winning.
 Monica:  Chandler! Phoebes hogging the game!
 Chandler:  Who cares? Its a stupid game.
 Monica:  You only think its stupid because you suck at it.
 Chandler:  I dont suck. Its sucks. You suck.
-Phoebe:  Wait okay, if this game is gonna cause problems between the two of you, then maybe I should just keep it.
-Monica:  No! No-no! I love it! It is a great present! In fact, why dont you go home and wait for the thank you card?
+Phoebe:  Wait okay, if this game is gonna cause problems between the two of you,
+
+ then maybe I should just keep it.
+Monica:  No! No-no! I love it! It is a great present! In fact, why dont you
+
+ go home and wait for the thank you card?
 Chandler:  Why do you want to play this game so bad?
-Phoebe:  Yeah! Its not like it spits out a  Clark  bar after every game.
-Monica:  Okay. Phoebe thats it. Come on, get outout of the chair. Get out!  Oh comePhoebe!
+Phoebe:  Yeah! Its not like it spits out a  Clark  bar after every
+
+ game.
+Monica:  Okay. Phoebe thats it. Come on, get outout of the chair. Get
+
+ out!  Oh
+
+ comePhoebe!
 
 Rachel:  Joey? Could you get that?  What are you doing here? I thought you were in your room?
 Joey:  No, Im picking you up for our date. These are for you. 
 Rachel:  Ohh, Lilies. Joey, theyre my favorite. Thank you.
-Joey:  And, a brownie!  Well, half a brownie. Actually, its just bag. Its been a long walk from the flower shop and I was startin to feel faint so
-Rachel:  Oh man! This is so great! I actually feel like Im going on a real date! Although, I have a hint of morning sickness, and Im wearing underwear that goes up to aboutthere.
-Joey:  Hey come on now, this is a real date. Uh, sonice place you got here. Foosball, huh? Pizza box. Oh, a subscription to  Playboy , my kind of woman.
+Joey:  And, a brownie!  Well, half a
+
+ brownie. Actually, its just bag. Its been a long walk from the flower shop and
+
+ I was startin to feel faint so
+Rachel:  Oh man! This is so great! I actually feel like Im going on a real
+
+ date! Although, I have a hint of morning sickness, and Im wearing underwear that
+
+ goes up to aboutthere.
+Joey:  Hey come on now, this is a real date. Uh, sonice place you got here.
+
+ Foosball, huh? Pizza box. Oh, a subscription to  Playboy , my kind of woman.
 Rachel:  Yeah, actually thats my roommates.
 Joey:  I would like to meet him. He sounds like a stand up guy.
-Rachel:  Ah yes, but hes very protective of me so youd better watch yourself.
+Rachel:  Ah yes, but hes very protective of me so youd better watch
+
+ yourself.
 Joey:  Ah Hey, so this roommate of yoursis he good looking?
 Rachel:  Hm-mmm.
 Joey:  Oh yeah, it must be tough to keep your hands of him, huh?
 Rachel:   Yeah, but Im pretty sure hes gay.
-Joey:  No-no-no-no, hes not! No! Why are you trying to ruin the game? Come on!
+Joey:  No-no-no-no, hes not! No! Why are you trying to ruin the game? Come
 
-Ross:  which brings us back, of course, to Greelys theory of dominance.  Okay, that-thats all for today. Oh, uh does anyone know where the Freeman building is?
+ on!
+
+Ross:  which brings us back, of course, to Greelys theory of dominance.
+
+  Okay, that-thats all for today. Oh, uh does anyone know where the
+
+ Freeman building is?
 Student:  Yeah, its the new building on Avenue A.
-Ross:  What?! That-thats all the way cross town, Im supposed to teach a graduate seminar there in ten minutes.
+Ross:  What?! That-thats all the way cross town, Im supposed to teach
+
+ a graduate seminar there in ten minutes.
 Student:  Ooh, dude. Thats not gonna happen.
 
 Ross:  Move it! Move it! Move it!! Hey!!! Im the teacher!!
 
-Ross:  Hello.  Im sorry Im a little late. AhWhoa! A lot late. Let me start by uh, by introducing myself, I am Professor Geller.  So to sum up, Im Professor Geller. Good job today.
+Ross:  Hello.  Im
+
+ sorry Im a little late. AhWhoa! A lot late. Let me
+
+ start by uh, by introducing myself, I am Professor Geller.  So to sum up,
+
+ Im Professor Geller. Good job today.
 
 Rachel:  Now the filet mignon, what comes with that?
 Waitress:  Theres a side of steamed vegetables.
-Rachel:  Emmm. Now, instead of the vegetables, is there anyway I can substitute the three-pound lobster?
+Rachel:  Emmm. Now, instead of the vegetables, is there anyway I can substitute
+
+ the three-pound lobster?
 Joey:  Yknow what? Bring her both, and Ill have the same. 
-Rachel:  Wow! This is shaping up to be a pretty good dateOh, I almost forgot. I didnt pay you the rent check.
+Rachel:  Wow! This is shaping up to be a pretty good dateOh, I almost
+
+ forgot. I didnt pay you the rent check.
 Joey:  Oh whoa-whoa-whoa, no roommate stuff. Okay? Were on a date.
-Rachel:  Okay. Wow! So I get to see what Joey Tribbiani is like on a date. So do you have any moves?
-Joey:  No! No. Umm, just myself and if they dont like me for Im sorry I couldnt even get through that.
+Rachel:  Okay. Wow! So I get to see what Joey Tribbiani is like on a date. So do
+
+ you have any moves?
+Joey:  No! No. Umm, just myself and if they dont like me for
+
+ Im sorry I couldnt even get through that.
 Rachel:  I knew it! I knew it. Come on tell me your moves.
-Joey:  Oh alright. Umm, well, okay, I usually start by having a bottle of wine sent to my table from a fan.
+Joey:  Oh alright. Umm, well, okay, I usually start by having a bottle of wine
+
+ sent to my table from a fan.
 Rachel:  Oh my God. And that works?!
-Joey:  Well it does when you combine it with, "This is so embarrassing, I just want to have a normal life!"
+Joey:  Well it does when you combine it with, "This is so embarrassing, I
+
+ just want to have a normal life!"
 Rachel:  Oh, you poor little famous man.
-Joey:  Oh okay, how about this one. I was gonna wait until the end of the night to kiss you, but youre so beautifulI dont think I can.
-Rachel:   Oh my God! Wow! That was fantastic, I almost leaned in. I really almost did!
+Joey:  Oh okay, how about this one. I was gonna wait until the end of the night
+
+ to kiss you, but youre so beautifulI dont think I can.
+Rachel:   Oh my God! Wow! That was fantastic, I almost leaned
+
+ in. I really almost did!
 Joey:  Alright, soso tell me one of your moves.
 Rachel:  Alright. So whered you grow up?
 Joey:  Thats your move? Boy Rach, youre lucky youre hot.
@@ -48109,12 +48409,20 @@ Joey:   Queens.
 Rachel:  And so were-were you close to your parents?
 Joey:  Yeah, with my mom. Yeah, not so much with my dad.
 Rachel:  Why not?
-Joey:  I dont know. I guess theres just always been this distance yknowI mean we both try to pretend its not there, but it is.
-Rachel:   Oh.  Its gotta be rough.
-Joey:  Yeah, it is. Its really tough. Yknow sometimes I thinkWow!! Nice move!
+Joey:  I dont know. I guess theres just always been this distance
+
+ yknowI mean we both try to pretend its not there, but it is.
+Rachel:   Oh.  Its
+
+ gotta be rough.
+Joey:  Yeah, it is. Its really tough. Yknow sometimes I
+
+ thinkWow!! Nice move!
 Rachel:  Huh?
 Joey:  "Whered you grow up," its so simple!
-Rachel:  Thank you! And now if youll excuse me, I have to go to the rest room.
+Rachel:  Thank you! And now if youll excuse me, I have to go to the rest
+
+ room.
 Joey:  Yeah.
 
 Rachel:  And now youre watching me walk away.
@@ -48123,74 +48431,138 @@ Joey:  Yes I am! Again so simple!
 Monica:  Hey.
 Chandler:  You are not going to believe what I did today!
 Monica:  Well it clearly wasnt showering or shaving.
-Chandler:  I got good. I played this game all day and now I rule at it! They should change the name of it to Ms. Chandler.  Although I-I hope they dont.
-Monica:  Wait a minute, you stayed home all day and played  Ms. Pac-Man  while I went off to work like some kind of chump?!
-Chandler:  Uh-huh, and I got all the top ten scores, I erased Phoebe off the board! High five! 
+Chandler:  I got good. I played this game all day and now I rule at it! They
+
+ should change the name of it to Ms. Chandler.  Although I-I hope they dont.
+Monica:  Wait a minute, you stayed home all day and played  Ms. Pac-Man 
+
+ while I went off to work like some kind of chump?!
+Chandler:  Uh-huh, and I got all the top ten scores, I erased Phoebe off the
+
+ board! High five! 
 Monica:  What is the matter with your hand?
-Chandler:  Well Ive been playing it for like eight hours, itll loosen up. Come on, check out the scores. Oh, and also look at the initials, theyre dirty words.
+Chandler:  Well Ive been playing it for like eight hours, itll loosen
+
+ up. Come on, check out the scores. Oh, and also look at the initials, theyre dirty
+
+ words.
 Monica:  Chandler, why would you do that?
 Chandler:  Because its awesome.
 Monica:  You think this is clever?
-Chandler:  Well yknow, they only give you three letters, so after A-S-S it is a bit of a challenge.
+Chandler:  Well yknow, they only give you three letters, so after A-S-S it
+
+ is a bit of a challenge.
 Monica:  Hey wait a minute, this one isnt dirty.
 Chandler:  It is when you put it together with that one.
-Monica:  Ah, well if you dont clear this off, you wont be getting one of those from me. But Bens coming over here tomorrow to play this game, this cant be there.
+Monica:  Ah, well if you dont clear this off, you wont be getting one
+
+ of those from me. But Bens coming over here tomorrow to play this game, this
+
+ cant be there.
 Chandler:  Come on, he wont even know what they mean.
 Monica:  Chandler! Hes seven; hes not stupid.
 Chandler:  Have you talked to him lately?
 Monica:  All right, look Im just gonna unplug it.
-Chandler:  No-no-no, if you unplug it, Ill have nothing to show for my day! It would be like I was at work.  No!  Hey look at that! Look at that, its still there! This thing must have some kind of primitive ROM  Chip in it or something!
+Chandler:  No-no-no, if you unplug it, Ill have nothing to show for my day!
+
+ It would be like I was at work.  No!  Hey look at
+
+ that! Look at that, its still there! This thing must have some kind of primitive ROM
+
+  Chip in it or something!
 Monica:  Honey you-you got to beat your scores!
 Chandler:  With the claw?!
-Monica:  All right fine. Fine, Ill do it. Ive just got to get this off the screen. Carol and Susan are still upset that you taught him pull my finger.
-Chandler:   Pull my fingerMy hand is messed up.
+Monica:  All right fine. Fine, Ill do it. Ive just got to get this
+
+ off the screen. Carol and Susan are still upset that you taught him pull my finger.
+Chandler:   Pull my fingerMy hand is
+
+ messed up.
 
 Rachel:  I am not gonna answer that!
-Joey:  Oh come on! Just pick one! Between Monica, Phoebe, Chandler, and Ross if you had to, if you had to, who would you punch?
+Joey:  Oh come on! Just pick one! Between Monica, Phoebe, Chandler, and Ross if
+
+ you had to, if you had to, who would you punch?
 Rachel:  No one! They are my friends, I wouldnt punch any of them.
 Joey:  Chandler?
-Rachel:  Yeah, but I dont know why. Look at me, Im having such a wonderful time!
+Rachel:  Yeah, but I dont know why. Look at me, Im having such a
+
+ wonderful time!
 Joey:  Me too! Hey Rach, can I just say I think this is the best date I ever had!
 Rachel:  I know!
 Joey:  I never laughed so hardDid you see the wine come out of my nose?
 Rachel:  Joey, I think everyone saw the wine come out of your nose.
-Joey:  I gotta say, I never knew I could enjoy the non-sex part of the date so much.
+Joey:  I gotta say, I never knew I could enjoy the non-sex part of the date so
+
+ much.
 Rachel:  Well that is because you have never been on a date with me before.
 Joey:  Huh. Huh.
-Rachel:  All right, now dont judge me. I normally wait until my date leaves, but you live here. Im ripping into this swan.
-Joey:  Ah! Okay, well then you dont judge me. Im gonna suck on the cellophane from the brownie I had before. 
+Rachel:  All right, now dont judge me. I normally wait until my date
+
+ leaves, but you live here. Im ripping into this swan.
+Joey:  Ah! Okay, well then you dont judge me. Im gonna suck on the
+
+ cellophane from the brownie I had before. 
 Rachel:  So tell me, what are Joey Tribbianis end of the night moves?
-Joey:  Ah, well, if I want the girl to kiss me, first thing I do is make my lips look irresistible.
+Joey:  Ah, well, if I want the girl to kiss me, first thing I do is make my lips
+
+ look irresistible.
 Rachel:  How do you do that?
 Joey:  Now you cant tell anyone, but uhI put on shiny lip balm.
 Rachel:  Oh my God!
-Joey:  Yeah, like a moth to a flame, Im telling ya. Okay all right, so now you go.
+Joey:  Yeah, like a moth to a flame, Im telling ya. Okay all right, so now
+
+ you go.
 Rachel:  No, I dont want to tell you.
 Joey:  Why not?
 Rachel:  Because its embarrassing.
-Joey:  More embarrassing than shiny raspberry lip balm?!  I didnt say raspberry before did I? All right just-just tell me Rach, just tell me!
-Rachel:   Okay. All right, stand up.  Well, when were at the door, I lightly press my lips against his, and then move into his body just for a second, and then I make this sound, "Hmmm." Okay, I know it doesnt sound like anything, but I swear it works.
+Joey:  More embarrassing than shiny raspberry lip balm?!  I didnt say raspberry before did I? All right just-just tell me Rach, just
+
+ tell me!
+Rachel:   Okay. All right, stand up.  Well, when were
+
+ at the door, I lightly press my lips against his, and then move into his body just for a
+
+ second, and then I make this sound, "Hmmm." Okay, I know it doesnt sound
+
+ like anything, but I swear it works.
 Joey:   Yeah. WhyYeah, that would work for ya
 Rachel:  All right, I gotta go to bed. Honey, I had such a wonderful time.
 Joey:  Oh.  Yeah.  Me to. 
 Commercial Break
 
 Rachel:  you were 50 minutes late to the class, what did you crawl there?!
-Ross:  No, I ran. It was really far, and when did people stop understanding the phrase, "Get the hell out of my way!"
+Ross:  No, I ran. It was really far, and when did people stop understanding the
+
+ phrase, "Get the hell out of my way!"
 Rachel:  Well, why didnt you just take a cab?
-Ross:  Ugh, between the traffic that time of day and all the one-way streets itll take me twice as long. Besides, I teach the class three times a week, who am I? Rockefeller?
+Ross:  Ugh, between the traffic that time of day and all the one-way streets
+
+ itll take me twice as long. Besides, I teach the class three times a week, who am I?
+
+ Rockefeller?
 Rachel:  Well youre not gonna be able to keep doing this.
-Ross:  Well I have to. Okay? If I dont, theyll take the class away from me. AndI already put it in my family newsletter.
+Ross:  Well I have to. Okay? If I dont, theyll take the class away
+
+ from me. AndI already put it in my family newsletter.
 Rachel:  You what?
 Ross:  Youve seen it, the Geller Yeller.
 Rachel:  Right. Wow!
-Ross:  Besides, I-I think I figured out a much faster route, Im sure I can make it this time. I justI just cant be afraid to get a little bithit by cars. 
+Ross:  Besides, I-I think I figured out a much faster route, Im sure I can
+
+ make it this time. I justI just cant be afraid to get a little bithit by
+
+ cars. 
 Joey:  Hey!
 Rachel:  Hi! Hey, remember how last night we were talking about that movie  Cujo ?
-Joey:  Oh yeah, I still cant believe you havent seen  Cujo . What is wrong with you?
+Joey:  Oh yeah, I still cant believe you havent seen  Cujo .
+
+ What is wrong with you?
 Rachel:  Relax! Its not like its  Citizen Kane !
 Joey:  Have you ever tried to sit through  Citizen Kane ?
-Rachel:  Yeah I know its really boring, but its like a big deal. Anyway, I was thinking about renting  Cujo  sometime.
+Rachel:  Yeah I know its really boring, but its like a big deal.
+
+ Anyway, I was thinking about renting  Cujo  sometime.
 Joey:  Oh yeah? All right, lets do it tonight.
 Rachel:  Well dont you have that big date tonight?
 Joey:  Oh right!
@@ -48198,29 +48570,51 @@ Rachel:  Hey Joey, can I ask you something?
 Joey:  Yeah.
 Rachel:  After our date last night, did you feel a little weird?
 Joey:  Oh my God! You did too? It totally freaked me out, what was that?!
-Rachel:  I dont know!  Im-Im kinda thinking it-it was the lobster
+Rachel:  I dont know!  Im-Im kinda thinking it-it was
+
+ the lobster
 Joey:  Oh yeah-yeah, the lobster.
 Rachel:  Yeah, I mean I was up sick all night.
 Joey:  Yeah me too, all night.
 Rachel:  Really?! How come we didnt cross paths?
-Joey:  Yeah well thats because uhI stayed in my room. Yeah, you dont want to look in my hamper.
+Joey:  Yeah well thats because uhI stayed in my room. Yeah, you
 
-Monica:  Okay, I got that. Ill escape over there. Ill come back over here. All right, come on  Ms. Pac-Man . Its gotRight Well, youre just a little bitch, arent you?
-Phoebe:   Hey, you guys. Listen, Im sorry that I was hogging the game beforeOh my God! Your friends have some unfortunate initials!
+ dont want to look in my hamper.
+
+Monica:  Okay, I got that. Ill escape over there. Ill come back over
+
+ here. All right, come on  Ms. Pac-Man . Its gotRight
+
+ Well, youre just a little bitch, arent you?
+Phoebe:   Hey, you guys. Listen, Im sorry that I was hogging the
+
+ game beforeOh my God! Your friends have some
+
+ unfortunate initials!
 Monica:  Theyre all Chandler.
 Phoebe:  Chandler sucks! He couldnt have gotten this good!
 Chandler:  I did.  But it came at a price.
 Monica:  But Ben is coming over tonight and he cant see this.
 Chandler:  Oh come on, by age seven kids have already seen orgies.  Was it just me?!
 
-Ross:  Yeah!!!! Yes, I made it! Im on time!  Okay, why dont we all uh,  open our books to page 23. Where  Where you will seea uha bunch of uhred spots. Okay,  umm, why dont, why dont you all start to read, while I
+Ross:  Yeah!!!! Yes, I made it! Im on time!  Okay,
+
+ why dont we all uh,  open our books to page 23. Where  Where you will seea uha bunch of uhred spots. Okay,  umm, why dont, why dont you all start to read, while I
 
 Joey's Date:  Hey. Are you all right? You seem a little distracted.
-Joey:  No-no! Im fine. Its just Hey, can I ask you something? Have you ever looked at someone that youve known for a while and then suddenlysuddenly see them a different way?
+Joey:  No-no! Im fine. Its just Hey, can I ask you something?
+
+ Have you ever looked at someone that youve known for a while and then
+
+ suddenlysuddenly see them a different way?
 Joey's Date:  You mean like from behind?
 Joey:  Yeah. Yeah, thatthats exactly it. Youre right. Yeah.
-Joey's Date:  Ew, yknow what? One time I saw this guy from behind and he seemed like a totally normal guy and then he turned around and it was Stephan Baldwin!
-Joey:   Ooh! Yeah. So yeah, so you know exactly what Im talking about.
+Joey's Date:  Ew, yknow what? One time I saw this guy from behind and he
+
+ seemed like a totally normal guy and then he turned around and it was Stephan Baldwin!
+Joey:   Ooh! Yeah. So yeah, so you know exactly what Im talking
+
+ about.
 Joey's Date:  Totally! Wow!  Would you excuse me for a sec?
 Joey:  Oh yeah, sure.  Ehhh.
 
@@ -48230,7 +48624,9 @@ Chandler:  One more score to go! You can do it!
 Phoebe:  Dont touch me!!
 Monica:  Dont touch her!!
 Chandler:  All right! Go left! Go left! Go right!! Go right!!
-Phoebe:  I cant!! I cant!!  Noooooooo!!!!!!! You son of a bitch!!!!!
+Phoebe:  I cant!! I cant!!  Noooooooo!!!!!!! You son of a
+
+ bitch!!!!!
 
 Ross:  Phoebe!!
 Phoebe:  Oh hi BenNo!! Dont look at the machine! 
@@ -48238,22 +48634,44 @@ Phoebe:  Oh hi BenNo!! Dont look at the machine!
 Rachel:  Oh God! Thank God youre home! Im watching  Cujo .
 Joey:   Alone?!
 Rachel:  Yes! But what is wrong with this dog?!
-Joey:  Hey, did you get to the part where theyre trapped in the car and Cujos throwin himself at the windshield?
-Rachel:  No! No! Seriously, whats wrong with the dog?! Wait a minute, what are you doing home so early? What happened to your date?
+Joey:  Hey, did you get to the part where theyre trapped in the car and
+
+ Cujos throwin himself at the windshield?
+Rachel:  No! No! Seriously, whats wrong with the dog?! Wait a minute, what
+
+ are you doing home so early? What happened to your date?
 Joey:  Oh uh, it didnt work out.
 Rachel:  Oh. Do you want to watch the rest of the movie with me?
 Joey:  Oh uh, okay. Yeah.
-Rachel:  Yknow, I never thought Id say this about a movie, but I really hope this dog dies.  What are you doing over there? Come sit here, you protect me.
+Rachel:  Yknow, I never thought Id say this about a movie, but I
+
+ really hope this dog dies.  What are you doing over there? Come sit here, you protect
+
+ me.
 Joey:  Oh sure, yeah, why not? 
-Rachel:  Okay.  Okay, thats him! Thats him! Thats Cujo! Thats Cujo!
+Rachel:  Okay.  Okay, thats him! Thats him! Thats
+
+ Cujo! Thats Cujo!
 Joey:  All right, I know! I know. Yeah, itll be okay.
-Rachel:  Oh my God.Whats he gonna do now? I cant watch!  Oh. Seriously, how can you watch this? Arent you scared?
+Rachel:  Oh my God.Whats he gonna do now? I cant watch!  Oh. Seriously, how can you watch this?
+
+ Arent you scared?
 Joey:  Terrified. 
 Closing Credits
 
-Ross:  So is everybody here? I got here a little early myself. Let us begin. Now, the hydrosaurids have been unearthed in two main locations.  Here.  Here.  Now as for the hydrosaurs
+Ross:  So is everybody here? I got here a little early myself. Let us begin. Now,
 
-Joey:   All right .  Its a new day. All that stuff about Rachel, you dont feel that now .  It was crazy !  Youre fine .  Youre better than fine !  You are, as your friend Tony would say, Grrrreat !  Everythings normal !  Shes just your friend Rachel !  Your friend Rachel .  Your friend !  Rachel .
+ the hydrosaurids have been unearthed in two main locations.  Here.  Here.  Now as for the hydrosaurs
+
+Joey:   All right .  Its a new day. All that stuff about
+
+ Rachel, you dont feel that now .  It was crazy !  Youre fine . 
+
+ Youre better than fine !  You are, as your friend Tony would say, Grrrreat ! 
+
+ Everythings normal !  Shes just your friend Rachel !  Your friend
+
+ Rachel .  Your friend !  Rachel .
 Rachel:  Hi, sweetie.
 Joey:   Hey, its your girlfriend, Rachel !
 Opening Credits
@@ -48266,42 +48684,70 @@ Monica: Wait, you like them with me.
 Chandler: Honey, its not the bath I enjoy, its the wet, naked lady.
 Monica: Oh, baths are so relaxing!
 Chandler: Really? What do you do? You just sit in there stewing in your own filth.
-Monica: How dirty do you think I am? Im telling you, if you had some candles and some bubbles and some music, you would love it! It would take all of your stress away.
-Chandler: Honey, its 2:00 on a Wednesday and Im watching  Road Rules , how stressed do you think I am?
+Monica: How dirty do you think I am? Im telling you, if you had some candles
+
+ and some bubbles and some music, you would love it! It would take all of your stress away.
+Chandler: Honey, its 2:00 on a Wednesday and Im watching  Road Rules ,
+
+ how stressed do you think I am?
 Joey:  Hey, Chandler, you got a minute? I-I really need to talk to you.
 Chandler: Oh! Uh, yeah! Is this a cold pizza talk or a leftover meatloaf talk?
 Joey: Well, neither.
 Chandler: Oh my God, whats up?!
-Joey: I dont know. Its-its justlately, Ive been feeling Okay, heres what it is  You know what? I feel a lot better, thanks! 
+Joey: I dont know. Its-its justlately, Ive been
+
+ feeling Okay, heres what it is  You know what? I feel a lot
+
+ better, thanks! 
 Chandler: Oh no-no, no you dont, just come back.
-Joey: All right. Okay. You and Monica, friends for a long time, and sure there are rules, but then you went to London. Oh, no, but thats different. I mean, there are rules there, too! You know what I mean?
+Joey: All right. Okay. You and Monica, friends for a long time, and sure there are
+
+ rules, but then you went to London. Oh, no, but thats different. I mean, there are
+
+ rules there, too! You know what I mean?
 Chandler: Do you?
-Joey: It was different for you guys! I mean, I mean, you were both in the same place, right?
+Joey: It was different for you guys! I mean, I mean, you were both in the same
+
+ place, right?
 Chandler: In London?
 Joey: Yeah.
 Chandler: Yes. When Monica and I were in London, we were both in London.
-Joey: You know what? This is a bad idea. Forget it. Forget it, and listen, do me a favor, this conversation was between you and me.
+Joey: You know what? This is a bad idea. Forget it. Forget it, and listen, do me a
+
+ favor, this conversation was between you and me.
 Chandler: If that.
 
-Rachel: Hi! Oh, Ross, dont forget, we have that doctors appointment tomorrow!
+Rachel: Hi! Oh, Ross, dont forget, we have that doctors appointment
+
+ tomorrow!
 Ross: Right.
 Phoebe: Hey, are you going to find out the sex of the baby?
-Ross: No-no, we talked about it. We dont want to know. All we care about is that its happy and healthy.
+Ross: No-no, we talked about it. We dont want to know. All we care about is
+
+ that its happy and healthy.
 Rachel: Yep! Happy and healthy! And cute!
 Ross: And smart!
 Rachel: Popular.
 Ross: With an aptitude for science.
-Phoebe: Are you two talking about the same baby? Hey! Have you started off thinking of names yet?
+Phoebe: Are you two talking about the same baby? Hey! Have you started off thinking
+
+ of names yet?
 Rachel: Oh yeah! Ive come up with a bunch of ideas!
 Ross: Really? Me too!
 Phoebe: Me too!
 Rachel: Really?!
 Phoebe: Uh huh! If its a girl, Phoebe, and if its a boy, Phoebo!
-Ross: Maybe. But it wouldnt hurt to have a backup, you know? Uh, Rach-Rach, what were you thinking? 
-Rachel: Okay! I was thinking if its a girl, how about Sandrine? Its French.
+Ross: Maybe. But it wouldnt hurt to have a backup, you know? Uh, Rach-Rach,
+
+ what were you thinking? 
+Rachel: Okay! I was thinking if its a girl, how about Sandrine? Its
+
+ French.
 Ross: Huh. Thats a really pretty name for-for an industrial solvent.
 Rachel: Okay fine, what do you have?
-Ross: Well, OK, its for a boy. Well, I know its a little out there, butDarwin.
+Ross: Well, OK, its for a boy. Well, I know its a little out there,
+
+ butDarwin.
 Rachel: Wow, oh my God, our child will be beaten to death in the schoolyard.
 Phoebe: Yeah, by Sandrine.
 Ross: Youre just saying that 'cause I said no to your name!
@@ -48310,10 +48756,14 @@ Phoebe: How-how about you each get five vetoes?
 Ross: All right.
 Rachel: All right.
 Ross: That sounds fair.
-Rachel: Yeah! I dont think youre going to need it though. Okay, check this out. If its a girl, Rain.
+Rachel: Yeah! I dont think youre going to need it though. Okay, check
+
+ this out. If its a girl, Rain.
 Ross: Veto.
 Rachel: Why?
-Ross: Rain? Hi. Hi, my name is Rain. I have my own kiln, and my dress is made out of wheat.
+Ross: Rain? Hi. Hi, my name is Rain. I have my own kiln, and my dress is made out
+
+ of wheat.
 Phoebe: I know her! I bought homemade soap from her at a Dead show!
 Ross: Okay, how about, for a guy, Thatcher?
 Rachel: Ross, why do you hate our child?
@@ -48335,8 +48785,14 @@ Chandler: Sex on the balcony?
 Monica: No, but someones really not going to get over that idea, are they?
 Chandler: What is it?
 Monica: I drew you a bath!
-Chandler: Honey, I dont like baths! Could you draw me a picture of us having sex on the balcony?
-Monica: Please, could you just try it for me? Come on, I used all my best stuff! I-I-I lit some candles. I put on some music. I used bath salts, plus bubble bath! And got you this little plastic Navy ship. So its a boy bath!
+Chandler: Honey, I dont like baths! Could you draw me a picture of us having
+
+ sex on the balcony?
+Monica: Please, could you just try it for me? Come on, I used all my best stuff!
+
+ I-I-I lit some candles. I put on some music. I used bath salts, plus bubble bath! And got
+
+ you this little plastic Navy ship. So its a boy bath!
 Chandler: Well, this does butch it up a bit.
 Monica: I swear, if you try it, you will love it!
 Chandler: All right, if I do this, can we at least discuss sex on the balcony?
@@ -48344,25 +48800,43 @@ Monica: Absolutely.
 
 Monica: Bet I know how  that  discussions going to go.
 
-Chandler:   All right, this isnt so bad .  I like the flower smell !  Which is okay, because Ive got my boat .
+Chandler:   All right, this isnt so bad .  I like the flower
+
+ smell !  Which is okay, because Ive got my boat .
 Monica:  So?
 Chandler: Oh my God.
-Monica: I told you you were a bath person! Hey, when you get out, maybe I can give you a facial!
+Monica: I told you you were a bath person! Hey, when you get out, maybe I can give you
+
+ a facial!
 Chandler: Im going to need a bigger boat.
 
-Ross: I dont think you had an open mind about the name Ruth. I mean, come on, little Ruthie Geller, how-how cute is that?
+Ross: I dont think you had an open mind about the name Ruth. I mean, come on,
+
+ little Ruthie Geller, how-how cute is that?
 Rachel: Oh, oh my God! I can practically hear the mahjong tiles!
-Dr. Long: Okay! All your tests look fine. Now, are you two interested in knowing the sex of the baby?
+Dr. Long: Okay! All your tests look fine. Now, are you two interested in knowing
+
+ the sex of the baby?
 Ross: Uh, no. No, were not.
-Rachel: But you have it right there in that file? You could tell us whether its a boy or a girl? Dayton or Sandrine? Phoebe or Phoebo?
+Rachel: But you have it right there in that file? You could tell us whether
+
+ its a boy or a girl? Dayton or Sandrine? Phoebe or Phoebo?
 Dr. Long: Thats right. But if you dont want to know
 Ross: No, no, we want to wait, right?
 Rachel: Right. Right.
-Dr. Long:  Oh, Ill be right back. And, uh, I know its really not my place, but please dont name your child Phoebo.
-Rachel:  So, which of these babies do you think is the ugliest?
-Ross: What? Rach! Come on, thats terrible! Theyreuhtheyre babies. Theyre-theyre all beautiful.
+Dr. Long:  Oh, Ill be right back. And, uh, I know
+
+ its really not my place, but please dont name your child Phoebo.
+Rachel:  So, which of these
+
+ babies do you think is the ugliest?
+Ross: What? Rach! Come on, thats terrible!
+
+ Theyreuhtheyre babies. Theyre-theyre all beautiful.
 Rachel: Third one from the left?
-Ross: Yeah, why is it staring at me? I think it knows Im talking about it.  Dont-dont youWhWhaHey!!
+Ross: Yeah, why is it staring at me? I think it knows Im talking about it.
+
+  Dont-dont youWhWhaHey!!
 Rachel: What?!
 Ross: Youre looking!
 Rachel: I didnt!
@@ -48371,24 +48845,40 @@ Rachel: Okay fine, I did. But I didnt see anything, I swear.
 Ross: Shame on you! Ugly baby judges you!
 Rachel: Okay, but Ross just listen to me
 Ross: No, no, no, no! Dont tell me! I dont want to know!
-Rachel: But I couldnt even if I wanted to, because I dont know! I swear; I didnt see anything, and I dont want to know! It was just a momentary lapse.
+Rachel: But I couldnt even if I wanted to, because I dont know! I
+
+ swear; I didnt see anything, and I dont want to know! It was just a momentary
+
+ lapse.
 Ross: Momentary lapse. Dont-dont you have any self-control?
 Rachel:  Okay, a couple months late on the lecture, Ross.
 
 Monica: Hello?
-Chandler: Im in the bathroom, can you come in here? I think theres something wrong.
+Chandler: Im in the bathroom, can you come in here? I think theres
+
+ something wrong.
 Monica: You know what? I-I think Ill wait out here.
 Chandler: Im in the bathtub.
 Monica: Oh.  Whats wrong?
-Chandler: I drew my own bath, but I did it wrong! The waters tepid. The salt didnt dissolve and is now lodged places. And the scents I used dont compliment each other. Eucalyptus and chamomileOh!
+Chandler: I drew my own bath, but I did it wrong! The waters tepid. The salt
+
+ didnt dissolve and is now lodged places. And the scents I used dont
+
+ compliment each other. Eucalyptus and chamomileOh!
 Monica: What?
-Chandler: The bath salts! Theyre starting to effervesce! Its different.  Its interesting.
+Chandler: The bath salts! Theyre starting to effervesce! Its different.
+
+  Its interesting.
 Monica: Okay, lets talk about something else.
 Chandler: Yeah! Sure, sure. So, what was going on with you today? Oh-oh-oh!
-Monica: Well, I actually had the weirdest conversation with Joey. He was talking about rules and right and wrong and
+Monica: Well, I actually had the weirdest conversation with Joey. He was talking
+
+ about rules and right and wrong and
 Chandler: I had the exact same conversation.
 Monica: You did? What was he talking about?
-Chandler: I dont know! Joey hasnt had this much trouble getting out words since we saw him in  Macbeth !
+Chandler: I dont know! Joey hasnt had this much trouble getting out
+
+ words since we saw him in  Macbeth !
 Monica:  That was a long night.
 Chandler: All right, lets break this down. What exactly did he say to you?
 Monica: Okay, he was talking about rules.
@@ -48396,8 +48886,12 @@ Chandler: Uh-huh.
 Monica: Umm, and looking at people differently.
 Chandler: He didnt say anything about that to me.
 Monica: What did he tell you?
-Chandler: He was asking all these questions about you, me, and London. And, of course the glue that holds this all together, the rules.
-Monica: Okay. So you, me and London. Looking at people differently. Maybe he wants to do what you and I did in London with someone.
+Chandler: He was asking all these questions about you, me, and London. And, of
+
+ course the glue that holds this all together, the rules.
+Monica: Okay. So you, me and London. Looking at people differently. Maybe he wants
+
+ to do what you and I did in London with someone.
 Chandler: But what did he mean by rules?
 Monica: Wait a minute! He stopped talking the minute Phoebe came in!
 Chandler: Because he was looking at her differently.
@@ -48406,7 +48900,11 @@ Chandler: My God! He wants to do it with Phoebe in London!
 Phoebe:  You guys?
 Monica: Just a minute!  Thats Mrs. Tribbiani!
 Chandler: You dont say anything.
-Monica: Why would I say anything? That two of our best friends could start the greatest love affair of their lives! And they would have me to thank, and we could all start having babies?
+Monica: Why would I say anything? That two of our best friends could start the
+
+ greatest love affair of their lives! And they would have me to thank, and we could all
+
+ start having babies?
 Chandler: Im not going to let you say anything.
 Monica: You just stay here! 
 Chandler: Oh, God!
@@ -48420,7 +48918,9 @@ Phoebe: Oh, just as well, I broke this one.
 Phoebe: What?
 Monica: Nothing.
 Phoebe: Okay.
-Monica: I mean, I-I, I really shouldnt say. I mean, Im really not supposed to.
+Monica: I mean, I-I, I really shouldnt say. I mean, Im really not
+
+ supposed to.
 Phoebe: Fine.
 Monica: Its a humdinger!
 Phoebe: Then its really too bad that you cant tell me.
@@ -48431,23 +48931,45 @@ Phoebe: Well, then tell him to stop staring!
 Monica: Its Joey!
 Phoebe: Really?! Joey?! You dont say.
 Monica: Is it something youd be interested in?
-Phoebe: I dont know, I dont know, I dont know. You know, I mean, on the one hand, Mother may I? But yknow on the other hand No. No, I cant. Were friends. No, oh, no. I dont want to risk what we have.
+Phoebe: I dont know, I dont know, I dont know. You know, I mean,
+
+ on the one hand, Mother may I? But yknow on the other hand No. No, I
+
+ cant. Were friends. No, oh, no. I dont want to risk what we have.
 Monica: I guess that makes sense. So, you think youre going to talk to him?
-Phoebe: Sure, yeah. I mean, its Joey. I dont want him to get hurt. Well, I must say, I am on fire! First Chandler, now Joey!
+Phoebe: Sure, yeah. I mean, its Joey. I dont want him to get hurt.
+
+ Well, I must say, I am on fire! First Chandler, now Joey!
 Monica: Not Chandler, just Joey.
 Phoebe: Sure.
 Commercial Break
 
 Rachel: Hey.
 Ross: Hey.
-Rachel: You know what? Ive been thinking about it. Im really coming around on the name Ruth. I think I would actually consider naming our child that.
-Ross: Rach, I-I cant tell you how-how much that means to me! Ohh Wait a minute. Wait a minute. You-you hated the name Ruth! Why-why would you change your mind? Unless, you know were never going to have to use it. You did see the folder. You know its a boy!
+Rachel: You know what? Ive been thinking about it. Im really coming
+
+ around on the name Ruth. I think I would actually consider naming our child that.
+Ross: Rach, I-I cant tell you how-how much that means to me! Ohh Wait a
+
+ minute. Wait a minute. You-you hated the name Ruth! Why-why would you change your mind?
+
+ Unless, you know were never going to have to use it. You did see the folder. You
+
+ know its a boy!
 Rachel: I didnt see anything! I actually changed my mind about the name.
-Ross: I dont think so! Youre just giving me Ruth so youll get to name it when its a boy, and thats when youll swoop in and name him Heath or Blaine or Sequoia.
+Ross: I dont think so! Youre just giving me Ruth so youll get to
+
+ name it when its a boy, and thats when youll swoop in and name him Heath
+
+ or Blaine or Sequoia.
 Rachel: I wouldSequoia?
 Ross: Veto.
 Rachel: Fine.
-Ross: Unless    You anticipated that I would figure all this out and you know that it actually is a girl, and you really do want her to be named Ruth! Well, Im not falling for that! Okay? Ruth is off the table!
+Ross: Unless    You anticipated that I would figure all
+
+ this out and you know that it actually is a girl, and you really do want her to be named
+
+ Ruth! Well, Im not falling for that! Okay? Ruth is off the table!
 Rachel: But Ross, you want the name Ruth!
 Ross: Not like this!
 
@@ -48459,19 +48981,41 @@ Phoebe: I knooow.
 Joey: Whaaat?
 Phoebe: I know about your feelings.
 Joey: Oh my God. You do?
-Phoebe: Yes, and Im sorry. I-I know things worked out for Chandler and Monica, but thats very rare.
-Joey: I know. I know. And this is so much more complicated than it was for those guys. I mean, its Rachel for God sakes.
+Phoebe: Yes, and Im sorry. I-I know things worked out for Chandler and
+
+ Monica, but thats very rare.
+Joey: I know. I know. And this is so much more complicated than it was for those
+
+ guys. I mean, its Rachel for God sakes.
 Phoebe: For God sakes, its Rachel!
-Joey: I know. I know. And shes not only my friend; shes my pregnant friend! Shes my pregnant friend whos Ross ex!
+Joey: I know. I know. And shes not only my friend; shes my pregnant
+
+ friend! Shes my pregnant friend whos Ross ex!
 Phoebe: Yeah thats Rachel.  Beat me over the head with it.
-Joey: What am I going to do? You know, and I keep, I keep trying to get rid of these feelings, yknow? I stayed up all last night and made a list of everything I dont like about her. You want to hear it?
+Joey: What am I going to do? You know, and I keep, I keep trying to get rid of
+
+ these feelings, yknow? I stayed up all last night and made a list of everything I
+
+ dont like about her. You want to hear it?
 Phoebe: Yeah.
-Joey: She made me switch to light Mayo. Thats it! Thats all I got! And, you know what? It tastes the same and my pants fit better!
-Phoebe: Joey, I just think youre getting worked up over nothing. This is probably just a crush.
+Joey: She made me switch to light Mayo. Thats it! Thats all I got! And,
+
+ you know what? It tastes the same and my pants fit better!
+Phoebe: Joey, I just think youre getting worked up over nothing. This is
+
+ probably just a crush.
 Joey: You think?
-Phoebe: Absolutely! Yknow, you get this rush of feelings, but then it goes away.
-Joey: Yeah, just a crush! Thats all this is! Its a crush! Im Joey; I dont get deep feelings.
-Phoebe: Thats right, there you go! Crushes happen all the time! I know Ive had them for all you guys. Well, except for Ross and Chandler. And Im sure youve had them for us.
+Phoebe: Absolutely! Yknow, you get this rush of feelings, but then it goes
+
+ away.
+Joey: Yeah, just a crush! Thats all this is! Its a crush! Im
+
+ Joey; I dont get deep feelings.
+Phoebe: Thats right, there you go! Crushes happen all the time! I know
+
+ Ive had them for all you guys. Well, except for Ross and Chandler. And Im sure
+
+ youve had them for us.
 Joey: Not really.
 Phoebe: Mm-hmm.  Throw me a bone here.
 
@@ -48488,7 +49032,9 @@ Rachel: Thats what you just said!
 Ross: No.
 Rachel: You said girl!
 Ross: Yes. Im Im sorry. Im so sorry.
-Rachel: Im not! Were having a girl! Sometimes I cant believe its with youBut still! Were having a girl!
+Rachel: Im not! Were having a girl! Sometimes I cant believe
+
+ its with youBut still! Were having a girl!
 Ross: I know! I know. You know what? Im putting Ruth back on the table!
 Rachel: Oh, yes! Well have ourselves a little baby Ruth
 Ross: Permission to veto.
@@ -48501,17 +49047,29 @@ Chandler: Okay.
 
 Monica: What do you think youre doing?
 Chandler: L-leaving my troubles behind?
-Monica: I know that youre new at this, but this is completely unacceptable bath decorum.
+Monica: I know that youre new at this, but this is completely unacceptable
+
+ bath decorum.
 Chandler: Oh, its so hard to care when youre this relaxed.
-Monica: Fine, you can have the bath, but I am taking your boat. Now youre just a girl in a tub!
+Monica: Fine, you can have the bath, but I am taking your boat. Now youre
+
+ just a girl in a tub!
 
 Chandler:  Hey!
-Phoebe: Hi, Bubbles. Manly. Well, I just thought I would drop by and let you know how it went with Joey.
+Phoebe: Hi, Bubbles. Manly. Well, I just thought I would drop by and let you know
+
+ how it went with Joey.
 Chandler:  You told her?!
-Monica: She pulled it out of me! Shes like a conversational wizard! Howd it go?
+Monica: She pulled it out of me! Shes like a conversational wizard!
+
+ Howd it go?
 Phoebe: Well, you were wrong, he doesnt like me!
 Monica: What?
-Phoebe: Yeah! How would you like it if I sent you to Lee Majors house and told you that he liked you, and you went down there and you found out that he didnt like you? How would you feel?
+Phoebe: Yeah! How would you like it if I sent you to Lee Majors house and
+
+ told you that he liked you, and you went down there and you found out that he didnt
+
+ like you? How would you feel?
 Monica:    I dont think Id care.
 Phoebe: Really? Lee Majors is hot!
 Joey:  Hello?
@@ -48519,15 +49077,27 @@ Phoebe: Were in the bathroom!
 Joey: Why?
 Chandler:  Because its a relaxing and enjoyable time!
 Joey:  What are you guys doing in here?
-Monica: Oh my God! A friend hes looking at differently, but its wrong. Its Rachel!
+Monica: Oh my God! A friend hes looking at differently, but its wrong.
+
+ Its Rachel!
 Chandler: You like Rachel?!
-Joey: Its no big deal, okay? Phoebe and I talked about it. Its just a crush! Its going to go away!  Dude, you gotta rearrange your bubbles! Oh!
+Joey: Its no big deal, okay? Phoebe and I talked about it. Its just a
+
+ crush! Its going to go away!  Dude, you gotta rearrange your bubbles!
+
+ Oh!
 Phoebe:   Mazel tov.
-Rachel:  Hey! Ross and I were looking for you! What are we all doing in here?  Oh, my! 
+Rachel:  Hey! Ross and I were looking for you! What are we all doing in
+
+ here?  Oh, my! 
 Monica: Honey, cover it up with the boat!
 Ross:  Hello?
-Chandler:  Yes were all in here and we would love for you to join us!
-Ross:  Well hey! Whats going on? Ooh, cool boatOh, no.   Hey, did you, did you tell them?
+Chandler:  Yes were all in here and we would love for you to
+
+ join us!
+Ross:  Well hey! Whats going on? Ooh, cool boatOh, no.  
+
+ Hey, did you, did you tell them?
 Rachel: No, I was waiting for you!
 Phoebe: Tell us what?
 Rachel: Were having a girl.
@@ -48535,7 +49105,13 @@ All: Oh, wow! Yay! Wow! Hooray! Oh, man!
 
 Chandler: IllIll get you later!
 
-Joey:   All right .  Its a new day, and its just a crush, thats all !  Just a little crush !  All that worrying I was doing, that was crazy .  Crazy !  Like my friend here the bird would say,  " it was cuckoo !"  Everythings going to be fine. Its just a crush.
+Joey:   All right .  Its a new day, and its just a
+
+ crush, thats all !  Just a little crush !  All that worrying I was doing,
+
+ that was crazy .  Crazy !  Like my friend here the bird would say,  " it
+
+ was cuckoo !"  Everythings going to be fine. Its just a crush.
 Rachel:  Hi, sweetie.
 Joey:   I love you.
 Closing Credits
@@ -50021,7 +50597,12 @@ Chandler:  Thanks.
 Monica:  Bye. 
 The Interviewer:  So it seems like you have a lot of friends, who would you say is your best friend?
 
-Joey:  How come you have two?     Chandler:  Well this one's for you.     Joey:  Get out.     Chandler:  No, I can't. No-no, listen, I, I know how much this means to you and I also know that this is about more than just jewelry,  it's about you and me and the fact that we're  best buds.     Joey:  Wow, is this friendship? I think so. Check it out, we're bracelet buddies.     Chandler:  That's what they'll call us.    
+Joey:  How come you have two?
+Chandler:  Well this one's for you.
+Joey:  Get out.
+Chandler:  No, I can't. No-no, listen, I, I know how much this means to you and I also know that this is about more than just jewelry,  it's about you and me and the fact that we're  best buds.
+Joey:  Wow, is this friendship? I think so. Check it out, we're bracelet buddies.
+Chandler:  That's what they'll call us.
 
 Rachel:  Oh, Joey! Sorry!
 Joey:  No thats all right. Dont worry about it.
@@ -59240,7 +59821,8 @@ Rachel:  Yeah, and if doesn't work, then we'll be just one   of those couples th
 Joey:  That's a... pla-an.
 
 Joey:   Wow... I did not see this coming.
-Rachel:  I know.     Joey:  I don't get it. I mean, I was so sure this was what   I wanted.
+Rachel:  I know.
+Joey:  I don't get it. I mean, I was so sure this was what   I wanted.
 Rachel:  Hmmm... Me too...
 
 Rachel:  I wonder how Monica and Chandler could do it?
@@ -59268,7 +59850,6 @@ Chandler:  No, I just had to get a picture of this.
 
 Chandler:  I see you later!
 
-end
 Monica:     Hey guys!
 Ross, Rachel and Chandler:  Hey!
 Chandler:  Honey, I got us that room at the Woodford Inn this weekend.
@@ -59313,7 +59894,8 @@ Joey:   What, what!? it's for her hot friends!
 Ross:  When they see this you'll be 52!
 Joey:   And starting to think about settling down!
 Rachel:  Hey Joey, will you please set this up for people to put Emma's presents    on?
-Joey:   I'd love to! Yeah!       Joey:    We were supposed to bring presents?
+Joey:   I'd love to! Yeah!
+Joey:    We were supposed to bring presents?
 Phoebe:  Yeah! I wrote Emma a song.
 Joey:   Oh, yeah! How was I supposed to know?
 Phoebe:  Joey, it's a birthday party.

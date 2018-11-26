@@ -239,7 +239,6 @@ class Chatbot:
                 print("----- Epoch {}/{} ; (lr={}) -----".format(e+1, self.args.numEpochs, self.args.learningRate))
 
                 batches = self.textData.getBatches()
-
                 # TODO: Also update learning parameters eventually
 
                 tic = datetime.datetime.now()
@@ -405,7 +404,6 @@ class Chatbot:
         # New model, we load the pre-trained word2vec data and initialize embeddings
         with open(os.path.join(self.args.rootDir, 'data/word2vec/GoogleNews-vectors-negative300.bin'), "rb", 0) as f:
             header = f.readline()
-            print (header)
             vocab_size, vector_size = map(int, header.split())
             binary_len = np.dtype('float32').itemsize * vector_size
             initW = np.random.uniform(-0.25,0.25,(len(self.textData.word2id), vector_size))
