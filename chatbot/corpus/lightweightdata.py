@@ -15,27 +15,6 @@
 
 import os
 
-"""
-Load data from a dataset of simply-formatted data
-
-from A to B
-from B to A
-from A to B
-from B to A
-from A to B
-===
-from C to D
-from D to C
-from C to D
-from D to C
-from C to D
-from D to C
-...
-
-`===` lines just separate linear conversations between 2 people.
-
-"""
-
 class LightweightData:
     """
     """

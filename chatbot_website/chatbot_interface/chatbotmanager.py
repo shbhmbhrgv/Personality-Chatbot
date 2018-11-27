@@ -42,7 +42,7 @@ class ChatbotManager(AppConfig):
         if not ChatbotManager.bot:
             logger.info('Initializing bot...')
             ChatbotManager.bot = chatbot.Chatbot()
-            ChatbotManager.bot.main(['--modelTag', 'server', '--test', 'daemon', '--rootDir' , chatbotPath,'--datasetTag','friends'])
+            ChatbotManager.bot.main(['--modelTag', 'server', '--test', 'daemon', '--rootDir' , chatbotPath,'--datasetTag','res_joey'])
         else:
             logger.info('Bot already initialized.')
 

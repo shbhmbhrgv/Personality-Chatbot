@@ -84,8 +84,6 @@ class TextData:
         # Plot some stats:
         print('Loaded {}: {} words, {} QA'.format(self.args.corpus, len(self.word2id), len(self.trainingSamples)))
 
-        if self.args.playDataset:
-            self.playDataset()
 
     def _constructName(self):
         """Return the name of the dataset that the program should use with the current parameters.

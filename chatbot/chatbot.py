@@ -42,7 +42,6 @@ class Chatbot:
     class TestMode:
         """ Simple structure representing the different testing modes
         """
-        ALL = 'all'
         INTERACTIVE = 'interactive'  # The user can write his own questions
         DAEMON = 'daemon'  # The chatbot runs on background and can regularly be called to predict something
 
@@ -89,29 +88,24 @@ class Chatbot:
         globalArgs = parser.add_argument_group('Global options')
         globalArgs.add_argument('--test',
                                 nargs='?',
-                                choices=[Chatbot.TestMode.ALL, Chatbot.TestMode.INTERACTIVE, Chatbot.TestMode.DAEMON],
-                                const=Chatbot.TestMode.ALL, default=None,
+                                choices=[Chatbot.TestMode.INTERACTIVE, Chatbot.TestMode.DAEMON],
+                                default=None,
                                 help='if present, launch the program try to answer all sentences from data/test/ with'
                                      ' the defined model(s), in interactive mode, the user can wrote his own sentences,'
                                      ' use daemon mode to integrate the chatbot in another program')
         globalArgs.add_argument('--createDataset', action='store_true', help='if present, the program will only generate the dataset from the corpus (no training/testing)')
-        globalArgs.add_argument('--playDataset', type=int, nargs='?', const=10, default=None,  help='if set, the program  will randomly play some samples(can be use conjointly with createDataset if this is the only action you want to perform)')
         globalArgs.add_argument('--reset', action='store_true', help='use this if you want to ignore the previous model present on the model directory (Warning: the model will be destroyed with all the folder content)')
         globalArgs.add_argument('--verbose', action='store_true', help='When testing, will plot the outputs at the same time they are computed')
         globalArgs.add_argument('--debug', action='store_true', help='run DeepQA with Tensorflow debug mode. Read TF documentation for more details on this.')
         globalArgs.add_argument('--keepAll', action='store_true', help='If this option is set, all saved model will be kept (Warning: make sure you have enough free disk space or increase saveEvery)')  # TODO: Add an option to delimit the max size
         globalArgs.add_argument('--modelTag', type=str, default=None, help='tag to differentiate which model to store/load')
         globalArgs.add_argument('--rootDir', type=str, default=None, help='folder where to look for the models and data')
-        globalArgs.add_argument('--watsonMode', action='store_true', help='Inverse the questions and answer when training (the network try to guess the question)')
-        globalArgs.add_argument('--autoEncode', action='store_true', help='Randomly pick the question or the answer and use it both as input and output')
         globalArgs.add_argument('--device', type=str, default=None, help='\'gpu\' or \'cpu\' (Warning: make sure you have enough free RAM), allow to choose on which hardware run the model')
-        globalArgs.add_argument('--seed', type=int, default=None, help='random seed for replication')
 
         # Dataset options
         datasetArgs = parser.add_argument_group('Dataset options')
         datasetArgs.add_argument('--corpus', choices=TextData.corpusChoices(), default=TextData.corpusChoices()[0], help='corpus on which extract the dataset.')
         datasetArgs.add_argument('--datasetTag', type=str, default='', help='add a tag to the dataset (file where to load the vocabulary and the precomputed samples, not the original corpus). Useful to manage multiple versions. Also used to define the file used for the lightweight format.')  # The samples are computed from the corpus if it does not exist already. There are saved in \'data/samples/\'
-        datasetArgs.add_argument('--ratioDataset', type=float, default=1.0, help='ratio of dataset used to avoid using the whole dataset')  # Not implemented, useless ?
         datasetArgs.add_argument('--maxLength', type=int, default=10, help='maximum length of the sentence (for input and output), define number of maximum step of the RNN')
         datasetArgs.add_argument('--lightweightFile', type=str, default=None, help='file containing our lightweight-formatted corpus')
 
@@ -136,10 +130,6 @@ class Chatbot:
         """
         Launch the training and/or the interactive mode
         """
-        print('Welcome to DeepQA v0.1 !')
-        print()
-        print('TensorFlow detected: v{}'.format(tf.__version__))
-
         # General initialisation
 
         self.args = self.parseArgs(args)
@@ -152,9 +142,7 @@ class Chatbot:
         self.loadModelParams()  # Update the self.modelDir and self.globStep, for now, not used when loading Model (but need to be called before _getSummaryName)
 
         self.textData = TextData(self.args)
-        # TODO: Add a mode where we can force the input of the decoder // Try to visualize the predictions for
         # each word of the vocabulary / decoder input
-        # TODO: For now, the model are trained for a specific dataset (because of the maxLength which define the
         # vocabulary). Add a compatibility mode which allow to launch a model trained on a different vocabulary (
         # remap the word2id/id2word variables).
         if self.args.createDataset:
@@ -169,7 +157,6 @@ class Chatbot:
         self.writer = tf.summary.FileWriter(self._getSummaryName())
         self.saver = tf.train.Saver(max_to_keep=200, write_version=tf.train.SaverDef.V1)  # TODO: See GitHub for format name issue (when restoring the model)
 
-        # TODO: Fixed seed (WARNING: If dataset shuffling, make sure to do that after saving the
         # dataset, otherwise, all which cames after the shuffling won't be replicable when
         # reloading the dataset). How to restore the seed after loading ??
         # Also fix seed for random.shuffle (does it works globally for all files ?)
@@ -178,7 +165,7 @@ class Chatbot:
         self.sess = tf.Session(config=tf.ConfigProto(
             allow_soft_placement=True,  # Allows backup device for non GPU-available operations (when forcing GPU)
             log_device_placement=False)  # Too verbose ?
-        )  # TODO: Replace all sess by self.sess (not necessary a good idea) ?
+        )
 
         if self.args.debug:
             self.sess = tf_debug.LocalCLIDebugWrapperSession(self.sess)
@@ -188,8 +175,7 @@ class Chatbot:
         self.sess.run(tf.global_variables_initializer())
 
         # Reload the model eventually (if it exist.), on testing mode, the models are not loaded here (but in predictTestset)
-        if self.args.test != Chatbot.TestMode.ALL:
-            self.managePreviousModel(self.sess)
+        self.managePreviousModel(self.sess)
 
         # Initialize embeddings with pre-trained word2vec vectors
         if self.args.initEmbeddings:
@@ -199,10 +185,6 @@ class Chatbot:
         if self.args.test:
             if self.args.test == Chatbot.TestMode.INTERACTIVE:
                 self.mainTestInteractive(self.sess)
-            elif self.args.test == Chatbot.TestMode.ALL:
-                print('Start predicting...')
-                self.predictTestset(self.sess)
-                print('All predictions done')
             elif self.args.test == Chatbot.TestMode.DAEMON:
                 print('Daemon mode, running in background...')
             else:
@@ -212,7 +194,7 @@ class Chatbot:
 
         if self.args.test != Chatbot.TestMode.DAEMON:
             self.sess.close()
-            print("The End! Thanks for using this program")
+            print("The End!")
 
     def mainTrain(self, sess):
         """ Training loop
@@ -239,7 +221,6 @@ class Chatbot:
                 print("----- Epoch {}/{} ; (lr={}) -----".format(e+1, self.args.numEpochs, self.args.learningRate))
 
                 batches = self.textData.getBatches()
-                # TODO: Also update learning parameters eventually
 
                 tic = datetime.datetime.now()
                 for nextBatch in tqdm(batches, desc="Training"):
@@ -311,14 +292,9 @@ class Chatbot:
         Args:
             sess: The current running session
         """
-        # TODO: If verbose mode, also show similar sentences from the training set with the same words (include in mainTest also)
-        # TODO: Also show the top 10 most likely predictions for each predicted output (when verbose mode)
-        # TODO: Log the questions asked for latter re-use (merge with test/samples.txt)
-
         print('Testing: Launch interactive mode:')
         print('')
-        print('Welcome to the interactive mode, here you can ask to Deep Q&A the sentence you want. Don\'t have high '
-              'expectation. Type \'exit\' or just press ENTER to quit the program. Have fun.')
+        print('Type \'exit\' or just press ENTER to quit the program. Have fun!')
 
         while True:
             question = input(self.SENTENCES_PREFIX[0])
@@ -356,7 +332,7 @@ class Chatbot:
 
         # Run the model
         ops, feedDict = self.model.step(batch)
-        output = self.sess.run(ops[0], feedDict)  # TODO: Summarize the output too (histogram, ...)
+        output = self.sess.run(ops[0], feedDict)
         answer = self.textData.deco2sentence(output)
 
         return answer
@@ -483,7 +459,7 @@ class Chatbot:
         """
         tqdm.write('Checkpoint reached: saving model (don\'t stop the run)...')
         self.saveModelParams()
-        self.saver.save(sess, self._getModelName())  # TODO: Put a limit size (ex: 3GB for the modelDir)
+        self.saver.save(sess, self._getModelName())
         tqdm.write('Model saved.')
 
     def _getModelList(self):
@@ -519,8 +495,6 @@ class Chatbot:
             # Restoring the the parameters
             self.globStep = config['General'].getint('globStep')
             self.args.maxLength = config['General'].getint('maxLength')  # We need to restore the model length because of the textData associated and the vocabulary size (TODO: Compatibility mode between different maxLength)
-            self.args.watsonMode = config['General'].getboolean('watsonMode')
-            self.args.autoEncode = config['General'].getboolean('autoEncode')
             self.args.corpus = config['General'].get('corpus')
             self.args.datasetTag = config['General'].get('datasetTag', '')
 
@@ -537,8 +511,6 @@ class Chatbot:
             print('Warning: Restoring parameters:')
             print('globStep: {}'.format(self.globStep))
             print('maxLength: {}'.format(self.args.maxLength))
-            print('watsonMode: {}'.format(self.args.watsonMode))
-            print('autoEncode: {}'.format(self.args.autoEncode))
             print('corpus: {}'.format(self.args.corpus))
             print('datasetTag: {}'.format(self.args.datasetTag))
             print('hiddenSize: {}'.format(self.args.hiddenSize))
@@ -552,9 +524,6 @@ class Chatbot:
         self.args.maxLengthEnco = self.args.maxLength
         self.args.maxLengthDeco = self.args.maxLength + 2
 
-        if self.args.watsonMode:
-            self.SENTENCES_PREFIX.reverse()
-
 
     def saveModelParams(self):
         """ Save the params of the model, like the current globStep value
@@ -565,8 +534,6 @@ class Chatbot:
         config['General']['version']  = self.CONFIG_VERSION
         config['General']['globStep']  = str(self.globStep)
         config['General']['maxLength'] = str(self.args.maxLength)
-        config['General']['watsonMode'] = str(self.args.watsonMode)
-        config['General']['autoEncode'] = str(self.args.autoEncode)
         config['General']['corpus'] = str(self.args.corpus)
         config['General']['datasetTag'] = str(self.args.datasetTag)
 
