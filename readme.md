@@ -86,10 +86,6 @@ Good Results
 
 <img src="https://github.com/shbhmbhrgv/Personality-Chatbot/blob/master/Results/good.JPG" alt="alt text" width="850" height="500">
 
-Random 
-
-It fails to respond appropriately to some questions.
-Q: What's up?
-A: Kidney Stones!
+Random Results
 
 <img src="https://github.com/shbhmbhrgv/Personality-Chatbot/blob/master/Results/random.JPG" alt="alt text" width="850" height="500">
