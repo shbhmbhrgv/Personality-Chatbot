@@ -185,9 +185,9 @@
 	h1, h2, h3, h4, h5, h6 {
 		/*color: #313f47;*/
 		color:white;
-		line-height: 1.5;
+		line-height: 2.5;
 		margin: 0 0 0.75em 0;
-		font-size: 4px;
+		font-size: 8px;
 
 	}
 
@@ -197,9 +197,12 @@
 		}
 
 	h1 {
-		font-size: 1.85em;
-		letter-spacing: 0.22em;
+		font-size: 2.15em;
+		letter-spacing: 0.42em;
 		margin: 0 0 0.525em 0;
+		font-family: "Verdana", Times, serif;
+		font-weight: bold;
+		font-style:italic;
 	}
 
 	h2 {
