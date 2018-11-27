@@ -83,12 +83,8 @@ This module loads the dialogue corpus and builds the vocabulary. It also perform
 Below are some screenshots of our chat with the chatbot. It gives preety good results for standard questions as well as some character specific questions. 
 
 Good Results
-* The bot replies with the character name when asked : Who are you?
-* Has a flirtatious nature just like Joey! 
-* Understands various greetings like Hi, Hello, Hey and responds accurately. 
-* Is smart enough to respond with a valid number when questioned: What time is it?
 
-<img src="https://github.com/manumathewthomas/Chat-with-Joey/blob/master/Results/Good.png" alt="alt text" width="850" height="500">
+<img src="https://github.com/shbhmbhrgv/Personality-Chatbot/Results/good.JPG" alt="alt text" width="850" height="500">
 
 Random 
 
@@ -96,6 +92,4 @@ It fails to respond appropriately to some questions.
 Q: What's up?
 A: Kidney Stones!
 
-<img src="https://github.com/manumathewthomas/Chat-with-Joey/blob/master/Results/Random1.png" alt="alt text" width="850" height="500">
-
-<img src="https://github.com/manumathewthomas/Chat-with-Joey/blob/master/Results/Random2.png" alt="alt text" width="850" height="500">
+<img src="https://github.com/shbhmbhrgv/Personality-Chatbot/Results/random.JPG" alt="alt text" width="850" height="500">
