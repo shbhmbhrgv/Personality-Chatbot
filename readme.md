@@ -25,6 +25,30 @@ To Run the Project you require::
  * pip3 install nltk
  * python3 -m nltk.downloader punkt
 
+## Dataset
+For this project we used the [Friends TV Corpus](https://fangj.github.io/friends/) and [Big Bang Theory](https://bigbangtrans.wordpress.com/about/). We preprocessed the data to get conversations between main character and other characters.
+
+## Hyperparameters
+Some of the hyperparameter we played with are sentence-length, number of hidden-layers, word embedding-size, batch-size and number of epochs.
+  
+  * 2 RNN layers(encoder and decoder) and for each layer we put the number of hidden layers to 2048.
+  * Changed the word embedding size to 256.
+  * Batch size to 512.
+  * Number of epochs: 200,000.
+
+## Training the Model:
+To create dataset:
+
+```bash
+python main.py --createDataset --corpus lightweight --datasetTag <dataset file name>
+```
+
+Train the model:
+
+```bash
+python main.py --reset --corpus lightweight --device gpu --datasetTag <dataset file name> --hiddenSize <hidden size> --embeddingSize <embedding size> --batchSize <batch size> --maxLength <max length> --numEpochs <number of epochs>
+```
+
 ## Running
 Once you have all the depenedencies ready, do the folowing:
 
@@ -45,16 +69,7 @@ python manage.py runserver 127.0.0.1:8000
 Then, Go to the Browser: http://127.0.0.1:8000/ 
 
 
-## Dataset
-For this project we used the [Friends TV Corpus](https://fangj.github.io/friends/) and [Big Bang Theory](https://bigbangtrans.wordpress.com/about/). We preprocessed the data to get conversations between main character and other characters.
 
-## Hyperparameters
-Some of the hyperparameter we played with are sentence-length, number of hidden-layers, word embedding-size, batch-size and number of epochs.
-  
-  * 2 RNN layers(encoder and decoder) and for each layer we put the number of hidden layers to 2048.
-  * Changed the word embedding size to 256.
-  * Batch size to 512.
-  * Number of epochs: 200,000.
 
 ## Results
 Below are some screenshots of our chat with the chatbot tested with Joey. It gives preety good results for standard questions as well as some character specific questions. 
