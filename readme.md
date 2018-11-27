@@ -84,7 +84,7 @@ Below are some screenshots of our chat with the chatbot. It gives preety good re
 
 Good Results
 
-<img src="https://github.com/shbhmbhrgv/Personality-Chatbot/Results/good.JPG" alt="alt text" width="850" height="500">
+<img src="https://github.com/shbhmbhrgv/Personality-Chatbot/tree/master/Results/good.JPG" alt="alt text" width="850" height="500">
 
 Random 
 
@@ -92,4 +92,4 @@ It fails to respond appropriately to some questions.
 Q: What's up?
 A: Kidney Stones!
 
-<img src="https://github.com/shbhmbhrgv/Personality-Chatbot/Results/random.JPG" alt="alt text" width="850" height="500">
+<img src="https://github.com/shbhmbhrgv/Personality-Chatbot/tree/master/Results/random.JPG" alt="alt text" width="850" height="500">
