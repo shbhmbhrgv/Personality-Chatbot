@@ -11,33 +11,27 @@ The Chatbot is Designed to Mimic the Personality of Joey, a Character from the P
 * [Dataset](#dataset)
 * [Hyperparameters](#hyperparameter)
 * [Results](#results)
-* [Improvements](#improvements)
-* [Credits](#credits)
+
 
 ## Installation
 
 To Run the Project you require::
  * python 3.5 and above
  * redis
- * pip install tensorflow
- * pip install django==1.10.7
- * pip install channels==1.1.6
- * pip install asgi_redis
- * pip install tqdm
- * pip install nltk
- * python3 -m nltk.downloader punkt 
- * [CKPT FILE](https://uofi.box.com/shared/static/vm0sm79oh037eh2kood6tvnaq010f75h.zip)
+ * pip3 install tensorflow
+ * pip3 install django==1.10.7
+ * pip3 install channels==1.1.6
+ * pip3 install asgi_redis
+ * pip3 install tqdm
+ * pip3 install nltk
+ * python3 -m nltk.downloader punkt
 
 ## Running
 Once you have all the depenedencies ready, do the folowing:
 
-Extract the ckpt zip file, you will get a folder 'model-server' with the ckpt file and its associated files. Move this folder to /save.
-The server will look at the model present on save/model-server/model.ckpt
-
 To Configure the Web App
 
 ```bash
-export CHATBOT_SECRET_KEY="my-secret-key"
 cd chatbot_website/
 python manage.py makemigrations
 python manage.py migrate
@@ -46,11 +40,10 @@ python manage.py migrate
 Then, to Launch the Server Locally, Use the Following Commands:
 
 ```bash
-cd chatbot_website/
 redis-server &  # Launch Redis in Background
 python manage.py runserver 127.0.0.1:8000
 ```
-Then, Go to the Browser: http://127.0.0.1:8080/ 
+Then, Go to the Browser: http://127.0.0.1:8000/ 
 
 
 ## Dataset
@@ -84,11 +77,12 @@ It contains the implementation of the model. It builds the model network and the
 The Model module does not perform run on itself but just return the operators to do so. It’s actually the trainer module that launches the training with different parameters. 
 * Textdata (module) 
 This module loads the dialogue corpus and builds the vocabulary. It also performs all the processing of the dataset. Some of these operations include extractConversation, extractText
+
 ## Results
 
 Below are some screenshots of our chat with the chatbot. It gives preety good results for standard questions as well as some character specific questions. 
 
-Good results
+Good Results
 * The bot replies with the character name when asked : Who are you?
 * Has a flirtatious nature just like Joey! 
 * Understands various greetings like Hi, Hello, Hey and responds accurately. 
@@ -105,25 +99,3 @@ A: Kidney Stones!
 <img src="https://github.com/manumathewthomas/Chat-with-Joey/blob/master/Results/Random1.png" alt="alt text" width="850" height="500">
 
 <img src="https://github.com/manumathewthomas/Chat-with-Joey/blob/master/Results/Random2.png" alt="alt text" width="850" height="500">
-
-
-## Improvements
-
-* Increase the sentence length from 5 to 10.
-* Train multple characters from the show.
-* Perform inter-bot chatting.
-
-
-## Credits
-
-* [A Neural Conversational Model](http://arxiv.org/abs/1506.05869)
-* [DeepQA repo](https://github.com/Conchylicultor/DeepQA)
-* [seq2seq model RNN](https://www.tensorflow.org/tutorials/seq2seq)
-
-
-## References
-*	Vinyals, Oriol, and Quoc Le. "A neural conversational model." arXiv preprint arXiv:1506.05869 (2015).
-*	Conchylicultor. "DeepQA." GitHub. N.p., Web. 27 Feb. 2017. <https://github.com/Conchylicultor/DeepQA>
-*	"Friends TV Corpus." David Ayliffe. N.p., n.d. Web. 22 Feb. 2017. https://sites.google.com/site/friendstvcorpus/
-*	Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems. 2013.
-*	Tensorflow. "Models." GitHub. N.p., Web. 22 Feb. 2017. <https://github.com/tensorflow/models>
