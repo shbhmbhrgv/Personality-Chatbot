@@ -106,10 +106,6 @@ class Model:
     def buildNetwork(self):
         """ Create the computational graph
         """
-
-        # TODO: Create name_scopes (for better graph visualisation)
-        # TODO: Use buckets (better perfs)
-
         # Parameters of sampled softmax (needed for attention mechanism and a large vocabulary size)
         outputProjection = None
         # Sampled softmax only makes sense if we sample less than vocabulary size.
@@ -142,7 +138,7 @@ class Model:
         # Creation of the rnn cell
         # encoDecoCell = tf.nn.rnn_cell.LSTMCell(self.args.hiddenSize, state_is_tuple=True, name='basic_lstm_cell')  # Or GRUCell, LSTMCell(args.hiddenSize)
         # print (self.args.numLayers)
-        if not self.args.test:  # TODO: Should use a placeholder instead
+        if not self.args.test:
             # encoDecoCell = tf.nn.rnn_cell.DropoutWrapper(encoDecoCell, input_keep_prob=1.0, output_keep_prob=0.5)  # TODO: Custom values
             encoDecoCell = tf.contrib.rnn.MultiRNNCell([tf.contrib.rnn.DropoutWrapper(
                 tf.contrib.rnn.LSTMCell(self.args.hiddenSize, state_is_tuple=True), input_keep_prob=1.0,
@@ -179,7 +175,7 @@ class Model:
             # When we test (self.args.test), we use previous output as next input (feed_previous)
         )
 
-        # TODO: When the LSTM hidden size is too big, we should project the LSTM output into a smaller space (4086 => 2046): Should speed up
+
         # training and reduce memory usage. Other solution, use sampling softmax
 
         # For testing only
@@ -190,7 +186,7 @@ class Model:
             else:
                 self.outputs = [outputProjection(output) for output in decoderOutputs]
 
-            # TODO: Attach a summary to visualize the output
+
 
         # For training only
         else:
